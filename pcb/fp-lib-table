@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "jlc_footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/jlc_footprints.pretty")(options "")(descr ""))
   (lib (name "PCM_Espressif")(type "KiCad")(uri "${KIPRJMOD}/lib/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/lib/Panelization.pretty")(options "")(descr ""))
 )
