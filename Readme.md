@@ -1,3 +1,3 @@
-# Split Flap Clock
+![](logo.png)
 
 ![](screenshot.png)
