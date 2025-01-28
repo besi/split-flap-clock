@@ -1872,6 +1872,11 @@
       (net 21 "GPIO23") (pinfunction "GPIO23") (pintype "bidirectional") (tstamp 945e8e5b-27ed-4197-bd45-eeecadb5f995))
     (pad "38" thru_hole oval (at 25.4 0) (size 1.2 2) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 29 "GND") (pinfunction "GND") (pintype "passive") (tstamp a07ea8f7-ca76-4a56-b8a2-aa135f239d0a))
+    (model "${KIPRJMOD}/lib/ESP32-WROOM-32D.step"
+      (offset (xyz 12.75 -22.75 2))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (layer "F.Cu")
