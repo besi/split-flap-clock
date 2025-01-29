@@ -141,7 +141,7 @@
   (net 62 "Net-(J6-Pin_2)")
   (net 63 "Net-(J6-Pin_1)")
   (net 64 "Net-(J6-Pin_3)")
-  (net 65 "unconnected-(J7-Pad3)")
+  (net 65 "+12V")
   (net 66 "Net-(J12-Pin_3)")
   (net 67 "Net-(J12-Pin_2)")
   (net 68 "Net-(J12-Pin_1)")
@@ -1447,11 +1447,11 @@
     (fp_line (start 4.5 13.7) (end -4.5 13.7)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 9f6b3174-845c-4c02-8073-a453049d0718))
     (pad "1" thru_hole rect (at 0 0 90) (size 4.6 2) (drill oval 3.6 1) (layers "*.Cu" "*.Mask")
-      (net 8 "+5V") (pintype "passive") (tstamp e94a0bf1-8575-44c1-8b09-dd0d5864052b))
+      (net 65 "+12V") (pintype "passive") (tstamp e94a0bf1-8575-44c1-8b09-dd0d5864052b))
     (pad "2" thru_hole oval (at 0 6.3 90) (size 4.2 2) (drill oval 3.2 1) (layers "*.Cu" "*.Mask")
       (net 29 "GND") (pintype "passive") (tstamp 5434b25f-9bbc-4c1c-a066-82f93c84a4e9))
     (pad "3" thru_hole oval (at 4.8 2.9 90) (size 2 4.2) (drill oval 1 3.2) (layers "*.Cu" "*.Mask")
-      (net 65 "unconnected-(J7-Pad3)") (pintype "passive+no_connect") (tstamp 54b3e702-9ef6-4655-b10c-dbf50148c57f))
+      (net 29 "GND") (pintype "passive") (tstamp 54b3e702-9ef6-4655-b10c-dbf50148c57f))
     (model "${KICAD6_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -1467,7 +1467,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp 17bb2c46-205b-41c1-8354-c77149f39cd7)
     (at 166 117.5 90)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot1" (at 0 -2 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 4858d5fc-246b-4b14-b676-664f5827dd12)
@@ -1948,7 +1948,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp 2f81ac41-651a-4c7c-be08-f990e6391fd8)
     (at 166 108.5 90)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot3" (at 0 -2 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 31fc3e9f-6f40-4b21-92f7-a029fd67548e)
@@ -2729,7 +2729,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp 94f80a6b-ffc8-44d3-908a-f578d6d9bb35)
     (at 166 126.5 90)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot" (at 0 -2 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp d0f25f55-5846-4e02-b9ef-3f9ce97609f9)
@@ -2761,7 +2761,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp 96d9c24a-2d41-4de9-9639-5b517dfe554c)
     (at 166 99.5 90)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot5" (at 0 -2 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp a8854e10-07a0-4805-ae33-7e2b6756b2ae)
@@ -2979,7 +2979,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp a20afb82-9166-40e7-9c6e-f437e97b76a5)
     (at 176.5 113 180)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot2" (at 0 -2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp a16f813b-37ae-4dff-9535-062302ae17ce)
@@ -3097,7 +3097,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp a92ccb61-64c5-41d5-a61d-9d40a194f400)
     (at 166 90.5 90)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot7" (at 0 -2 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 6e27e723-dff3-4261-8329-5bce770db87c)
@@ -3195,7 +3195,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp ae4c22e9-d71e-484a-94d3-b791acb02be1)
     (at 176.5 122 180)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot" (at 0 -2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 916d0448-dfc5-4ead-bea1-084f32ee8ed3)
@@ -3783,7 +3783,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp ccf9537a-d016-4d73-8308-3483e0ad3746)
     (at 176.5 104 180)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot4" (at 0 -2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 826f7560-4750-47aa-97af-1803eaa5dd7f)
@@ -4096,7 +4096,7 @@
   (footprint "Panelization:mouse-bite-2mm-slot" (layer "F.Cu")
     (tstamp e8a342a5-3e43-4833-bfb9-9b0d3ff5a470)
     (at 176.5 95 180)
-    (attr through_hole)
+    (attr through_hole board_only)
     (fp_text reference "mouse-bite-2mm-slot6" (at 0 -2) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.2)))
       (tstamp c8aae5da-2483-4e12-ad1a-327655ec6e26)
