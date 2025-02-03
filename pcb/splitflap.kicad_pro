@@ -447,6 +447,10 @@
       {
         "netclass": "POWER",
         "pattern": "GND"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "/POW*"
       }
     ]
   },
