@@ -1,4 +1,4 @@
-(module "CONN-TH_B5B-XH-A-LF-SN" (layer F.Cu) (tedit 6795344F)
+(module "CONN-TH_B5B-XH-A-LF-SN" (layer F.Cu) (tedit 67A20A02)
   (descr "CONN-TH_B5B-XH-A-LF-SN footprint")
   (tags "CONN-TH_B5B-XH-A-LF-SN footprint C157991")
   (attr through_hole)
