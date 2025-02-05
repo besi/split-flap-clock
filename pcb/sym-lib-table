@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "jlc_symbols")(type "KiCad")(uri "${KIPRJMOD}/lib/jlc_symbols.kicad_sym")(options "")(descr ""))
   (lib (name "espsbeat")(type "KiCad")(uri "${KIPRJMOD}/lib/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "qwiic-adapter")(type "KiCad")(uri "${KIPRJMOD}/lib/qwiic-adapter/qwiic-adapter.kicad_sym")(options "")(descr ""))
 )

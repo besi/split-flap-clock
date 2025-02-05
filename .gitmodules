@@ -1,0 +1,3 @@
+[submodule "pcb/lib/qwiic-adapter"]
+	path = pcb/lib/qwiic-adapter
+	url = https://github.com/besi/kicad-qwiic-adapter

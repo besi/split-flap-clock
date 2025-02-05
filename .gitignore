@@ -1,2 +1,11 @@
-webrepl_cfg.py
 secrets.py
+webrepl_cfg.py
+fabrication-toolkit*
+*.step
+/fp-info-cache
+/*-backups
+/*.kicad_prl
+/gerber
+/production
+*.zip
+*.lck
