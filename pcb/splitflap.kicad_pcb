@@ -9446,7 +9446,7 @@
   (gr_text "5V" (at 155.684537 86.127854) (layer "F.SilkS") (tstamp ce1a71e5-91d3-4541-8196-6fece3ba5724)
     (effects (font (size 0.9 0.9) (thickness 0.1)) (justify left))
   )
-  (gr_text "v1.1-beta (@abcdef)\n{DATE}\n" (at 92.114438 136.456581) (layer "F.SilkS") (tstamp d056645e-08a7-4bee-8f6d-9495d0a9a237)
+  (gr_text "v1.1 @f5de51\n4. February 2025" (at 92.114438 136.456581) (layer "F.SilkS") (tstamp d056645e-08a7-4bee-8f6d-9495d0a9a237)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify left))
   )
   (gr_text "3V3\n\nData\n\nGND" (at 169.30156 117.511155) (layer "F.SilkS") (tstamp de4a6c33-3730-4557-a885-2eab53dbe503)
