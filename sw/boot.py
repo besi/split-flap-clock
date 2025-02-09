@@ -6,6 +6,7 @@ import utime
 import time
 import ntptime
 
+skip_wifi = True
 ssid = ""
 
 def sync_ntp(woff=1,soff=2):
@@ -58,7 +59,7 @@ wlan.active(True)
 # Only for deep sleep ?
 # print('connecting to last AP', end='')
 # print(try_connection(3))
-if not wlan.isconnected():
+if not wlan.isconnected() and not skip_wifi:
     ap_list = wlan.scan()
     ## sort APs by signal strength
     ap_list.sort(key=lambda ap: ap[3], reverse=True)
@@ -72,19 +73,20 @@ if not wlan.isconnected():
             ssid = essid
             wlan.connect(essid, secrets.wifi.aps[essid])
             print(try_connection())
-print("Setting time...")
 
-# Update the time
-time.sleep(1)
-(year,month,day,hour,minute,second,xx,yy) = sync_ntp()
-print(f"It's {hour}:{minute:02d}")
-print("gc.collect()")
-import gc
-gc.collect()
+if not skip_wifi:
+    print("Setting time...")
+    # Update the time
+    time.sleep(1)
+    (year,month,day,hour,minute,second,xx,yy) = sync_ntp()
+    print(f"It's {hour}:{minute:02d}")
+    print("gc.collect()")
+    import gc
+    gc.collect()
 
-print(wlan.ifconfig()[0])
-import webrepl
-webrepl.start()
+    print(wlan.ifconfig()[0])
+    import webrepl
+    webrepl.start()
 
 # TODO: is this better?
 # if tmo > 0:
