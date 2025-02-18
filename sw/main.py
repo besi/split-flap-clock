@@ -1,53 +1,60 @@
-# ADC
 from machine import Pin
 from machine import ADC
-adc = ADC(0)
-ir = Pin(2,Pin.OUT)
-ir.value(0) # Enable IR diode so that we can receive what is reflected back
-print(f"Distance Sensor: {adc.read()}")
-
-
-# Read temperature and Humidity
-from machine import Pin, SoftI2C
-from hdc1080 import HDC1080
-
-scl = Pin(5, Pin.IN, Pin.PULL_UP)
-sda = Pin(4, Pin.IN, Pin.PULL_UP)
-i2c = SoftI2C(scl,sda)
-temp = HDC1080(i2c)
-print(f"Temperature {temp.temperature()}°C")
-print(f"Humidity {temp.humidity()}%")
-
 import machine
 import time
+import neopixel
 
-from uln2003 import Stepper, HALF_STEP, FULL_STEP, FULL_ROTATION
+from uln2003 import Stepper, HALF_STEP, FULL_STEP, FULL_ROTATION, Driver, Command
 from machine import Pin
 
-stepper = Stepper(HALF_STEP, Pin(13, Pin.OUT), Pin(12, Pin.OUT), Pin(14, Pin.OUT), Pin(15, Pin.OUT), delay=.003 )  
+# does not work
+s1 = Stepper(HALF_STEP, Pin(23, Pin.OUT), Pin(22, Pin.OUT), Pin(21, Pin.OUT), Pin(19, Pin.OUT), delay=.003 )
+
+# does not work
+s2 = Stepper(HALF_STEP, Pin(18, Pin.OUT), Pin( 5, Pin.OUT), Pin(17, Pin.OUT), Pin(16, Pin.OUT), delay=.003 )
+
+s3 = Stepper(HALF_STEP, Pin( 4, Pin.OUT), Pin( 2, Pin.OUT), Pin(15, Pin.OUT), Pin(32, Pin.OUT), delay=.003 )
+s4 = Stepper(HALF_STEP, Pin(33, Pin.OUT), Pin(25, Pin.OUT), Pin(26, Pin.OUT), Pin(27, Pin.OUT), delay=.003 )
+
+
+# Hall sensors
+h1 = Pin(36,Pin.IN)
+h2 = Pin(39,Pin.IN)
+h3 = Pin(34,Pin.IN)
+h4 = Pin(35,Pin.IN)
+
+sensors = [h1,h2,h3,h4]
+steppers = [s1,s2,s3,s4]
+
 mode = Pin(0, Pin.IN)
 
 MARGIN = 0.9
 ACTIVE = 0
 
-# Nod hello
 clockwise = 1
-dir = 1
-stepper.step(7, dir)
-dir = dir * -1
-stepper.step(7, dir)
-dir = clockwise
-correction = 0
-while True:
-    # Rotate in steps
-    # Change direction when button is pressed
-    if mode() == ACTIVE:
-        
-        correction += 1
-        stepper.step(int(FULL_ROTATION/10), dir)
-        time.sleep(.2)
-        if correction%10 == 0:
-            stepper.step(3, dir) # Add the missing 3 steps (513/10 = 51.3) .3*10 = 3
-    
-        
 
+
+# I2C
+from machine import Pin, SoftI2C
+scl = Pin(14, Pin.IN, Pin.PULL_UP)
+sda = Pin(12, Pin.IN, Pin.PULL_UP)
+i2c = SoftI2C(scl,sda)
+
+# Neopixel does not work
+np = neopixel.NeoPixel(machine.Pin(13),2)
+np.fill((250,250,250))
+np.write()
+current = s4
+
+runner = Driver()
+
+
+while True:
+    for sensor in sensors:
+        if sensor() == 4:
+            index = sensors.index(sensor)
+            current = steppers[index]
+            print(f"Hall Sensor {index+1} activated starting motor {index + 1}")
+            time.sleep(.5)
+    for stepper in steppers:
+        stepper.step(3,1)
