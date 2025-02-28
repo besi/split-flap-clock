@@ -11,7 +11,7 @@ from machine import Pin
 d = 0.001
 s1 = Stepper(HALF_STEP, Pin(23, Pin.OUT), Pin(22, Pin.OUT), Pin(21, Pin.OUT), Pin(19, Pin.OUT), d)
 s2 = Stepper(HALF_STEP, Pin(18, Pin.OUT), Pin( 5, Pin.OUT), Pin(17, Pin.OUT), Pin(16, Pin.OUT), d)
-s3 = Stepper(HALF_STEP, Pin(32, Pin.OUT), Pin( 4, Pin.OUT), Pin(2, Pin.OUT), Pin(15, Pin.OUT), d)
+s3 = Stepper(HALF_STEP, Pin( 4, Pin.OUT), Pin( 2, Pin.OUT), Pin(15, Pin.OUT), Pin(32, Pin.OUT), d)
 s4 = Stepper(HALF_STEP, Pin(33, Pin.OUT), Pin(25, Pin.OUT), Pin(26, Pin.OUT), Pin(27, Pin.OUT), d)
 
 # Buttons
