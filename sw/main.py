@@ -8,13 +8,11 @@ from uln2003 import Stepper, HALF_STEP, FULL_STEP, FULL_ROTATION, Driver, Comman
 from machine import Pin
 
 # does not work
-s1 = Stepper(HALF_STEP, Pin(23, Pin.OUT), Pin(22, Pin.OUT), Pin(21, Pin.OUT), Pin(19, Pin.OUT), delay=.003 )
-
-# does not work
-s2 = Stepper(HALF_STEP, Pin(18, Pin.OUT), Pin( 5, Pin.OUT), Pin(17, Pin.OUT), Pin(16, Pin.OUT), delay=.003 )
-
-s3 = Stepper(HALF_STEP, Pin( 4, Pin.OUT), Pin( 2, Pin.OUT), Pin(15, Pin.OUT), Pin(32, Pin.OUT), delay=.003 )
-s4 = Stepper(HALF_STEP, Pin(33, Pin.OUT), Pin(25, Pin.OUT), Pin(26, Pin.OUT), Pin(27, Pin.OUT), delay=.003 )
+d = 0.001
+s1 = Stepper(HALF_STEP, Pin(23, Pin.OUT), Pin(22, Pin.OUT), Pin(21, Pin.OUT), Pin(19, Pin.OUT), d)
+s2 = Stepper(HALF_STEP, Pin(18, Pin.OUT), Pin( 5, Pin.OUT), Pin(17, Pin.OUT), Pin(16, Pin.OUT), d)
+s3 = Stepper(HALF_STEP, Pin(32, Pin.OUT), Pin( 4, Pin.OUT), Pin(2, Pin.OUT), Pin(15, Pin.OUT), d)
+s4 = Stepper(HALF_STEP, Pin(33, Pin.OUT), Pin(25, Pin.OUT), Pin(26, Pin.OUT), Pin(27, Pin.OUT), d)
 
 # Buttons
 mode = Pin(0, Pin.IN)
@@ -47,7 +45,7 @@ i2c = SoftI2C(scl,sda)
 
 # Neopixel does not work
 np = neopixel.NeoPixel(machine.Pin(13),2)
-np.fill((250,250,250))
+np.fill((1,1,1))
 np.write()
 current = s4
 
@@ -67,4 +65,4 @@ while True:
             print(f"Hall Sensor {index+1} activated starting motor {index + 1}")
             time.sleep(.5)
     for stepper in steppers:
-        stepper.step(3,1)
+        stepper.step(FULL_ROTATION/40,1)
