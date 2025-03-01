@@ -5837,7 +5837,7 @@
 		)
 		(uuid "fe518416-4100-4a35-b9cd-2eb39a56a89e")
 	)
-	(text "TODO:\n\n- Add a power switch for the barrel jack case\n"
+	(text "TODO:\n\n- Add a power switch for the barrel jack case\n- Add 100nF decoupling caps to all the motor sockets\n- Add 100uF decoupling caps to all ULN2003\n- Add 100nF to the ESP 3v3 and 5V supply"
 		(exclude_from_sim no)
 		(at 32.258 -46.736 0)
 		(effects
