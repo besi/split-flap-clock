@@ -21,7 +21,7 @@ d2 = Digit(s2, h2, [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], 35, 1, label='Days10')
 d2.calibrate()
 
 s3 = Stepper(HALF_STEP, Pin( 4, Pin.OUT), Pin( 2, Pin.OUT), Pin(15, Pin.OUT), Pin(32, Pin.OUT), d)
-h4 = Pin(34, Pin.IN)
+h3 = Pin(34, Pin.IN)
 d3 = Digit(s3, h3, [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], 25, -1, label='Days')
 d3.calibrate()
 
@@ -53,7 +53,6 @@ def showTime():
     d2.show(int(mday/10))
     d3.show(mday%10)
     d4.show(month)
-
 
 while True:
     
