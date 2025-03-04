@@ -17,12 +17,12 @@ d1.calibrate()
 
 s2 = Stepper(HALF_STEP, Pin(18, Pin.OUT), Pin( 5, Pin.OUT), Pin(17, Pin.OUT), Pin(16, Pin.OUT), d)
 h2 = Pin(39,Pin.IN)
-d2 = Digit(s2, h2, [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], 35, 1, label='Days10')
+d2 = Digit(s2, h2, [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], 30, 1, label='Days10')
 d2.calibrate()
 
 s3 = Stepper(HALF_STEP, Pin( 4, Pin.OUT), Pin( 2, Pin.OUT), Pin(15, Pin.OUT), Pin(32, Pin.OUT), d)
 h3 = Pin(34, Pin.IN)
-d3 = Digit(s3, h3, [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], 25, -1, label='Days')
+d3 = Digit(s3, h3, [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], 20, -1, label='Days')
 d3.calibrate()
 
 s4 = Stepper(HALF_STEP, Pin(33, Pin.OUT), Pin(25, Pin.OUT), Pin(26, Pin.OUT), Pin(27, Pin.OUT), d)
