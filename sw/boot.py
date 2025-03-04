@@ -6,7 +6,7 @@ import utime
 import time
 import ntptime
 
-skip_wifi = True
+skip_wifi = False
 ssid = ""
 
 def sync_ntp(woff=1,soff=2):
