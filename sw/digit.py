@@ -19,10 +19,10 @@ class Digit():
             print(f"a: advance {position - self.position}")
             self.advance(position - self.position)
         elif position == self.position:
-            print("bAlready there")
+            print("Already there")
         else:
-            print(f"c: advance {FULL_ROTATION - self.position + position}")
-            self.advance(FULL_ROTATION - self.position+position) 
+            print(f"Advance over zero to {FULL_ROTATION - self.position + position}")
+            self.advance(FULL_ROTATION - self.position + position) 
 
     def show(self, label):
         if label in self.labels:
