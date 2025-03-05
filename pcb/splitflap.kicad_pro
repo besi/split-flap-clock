@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.0,
-          "width": 1.8
+          "drill": 0.8,
+          "height": 2.0,
+          "width": 1.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -434,19 +434,19 @@
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
-      "lib_symbol_issues": "warning",
+      "lib_symbol_issues": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
       "missing_unit": "warning",
-      "multiple_net_names": "ignore",
+      "multiple_net_names": "warning",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "ignore",
-      "power_pin_not_driven": "ignore",
+      "pin_to_pin": "error",
+      "power_pin_not_driven": "warning",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
       "unannotated": "error",
@@ -457,7 +457,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "jlc_symbols"
+    ]
   },
   "meta": {
     "filename": "splitflap.kicad_pro",
