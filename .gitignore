@@ -9,3 +9,4 @@ fabrication-toolkit*
 /production
 *.zip
 *.lck
+*.bak
