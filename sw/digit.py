@@ -16,7 +16,7 @@ class Digit():
     def advance_to(self, position):
         print(f"Advance from {self.position} to {position}")
         if position > self.position:
-            print(f"a: advance {position - self.position}")
+            print(f"Advance {position - self.position}")
             self.advance(position - self.position)
         elif position == self.position:
             print("Already there")
@@ -42,7 +42,7 @@ class Digit():
             print(f"Removed FULL_ROTATION to get to {self.position}")
         print(f"Went {steps} steps from {old} to {self.position}") 
 
-    def calibrate(self):
+    def calibrate(self, move_to_first = False):
         print(f"Calibrating the {self.label} digit")
         print(f"{self.labels}")
 
@@ -67,12 +67,11 @@ class Digit():
             self.stepper.step(1,self.direction)
         print(f"Reached end of hall sensor at {self.position}")
         self.magnet_range = self.position
-        print("Go to center of magnet")
+        print("Go back to center of magnet")
         self.stepper.step(int(self.position / 2), -self.direction)
-        self.position = 0
-        print("Go to offset")
-        self.stepper.step(self.offset-5, self.direction)
-        time.sleep(0.1)
-        self.stepper.step(5, self.direction)
-        self.positon = self.offset
-        print(f"calibration ended at position {self.position}")
+        self.position = FULL_ROTATION - self.offset 
+            
+        if move_to_first:
+            print("Go to offset")
+            self.advance(self.offset)
+            print(f"calibration ended at position {self.position}")
