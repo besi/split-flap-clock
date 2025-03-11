@@ -8,7 +8,7 @@ class Digit():
         self.sensor = sensor
         self.labels = labels
         self.direction = direction
-        self.position = -1
+        self.position = -99999
         self.offset = offset
         self.label = label
         self.magnet_range = 0
@@ -47,31 +47,32 @@ class Digit():
         print(f"{self.labels}")
 
         if self.sensor() == HALL_ACTIVE:
-            self.position = 0 
+            i = 0
             while self.sensor() == HALL_ACTIVE:
                 self.stepper.step(1, -self.direction)
-                self.position += 1
-            print(f"moved {self.position} out of the magnet area")
+                i += 1
+            print(f"moved {i} out of the magnet area")
 
-        self.position = 0
+        i = 0
         print(f"Starting calibration")
         while self.sensor() != HALL_ACTIVE:
             self.stepper.step(1, self.direction)
-            self.position +=1
+            i += 1
             
-        print(f"Found the magnet after {self.position} steps")
-        self.position = 0
-        print(f"Starting at position {self.position}")
+        print(f"Found the magnet after {i} steps")
+        i = 0
         while self.sensor() == HALL_ACTIVE:
-            self.position += 1
+            i += 1
             self.stepper.step(1,self.direction)
-        print(f"Reached end of hall sensor at {self.position}")
-        self.magnet_range = self.position
-        print("Go back to center of magnet")
-        self.stepper.step(int(self.position / 2), -self.direction)
-        self.position = FULL_ROTATION - self.offset 
+        print(f"Reached end of hall sensor at {i}")
+        self.magnet_range = i
+        # Go to the magnet center
+        self.stepper.step(int(i / 2), -self.direction)
+        print("Set the absolute zero relative to the offset")
+        self.position = FULL_ROTATION - self.offset
             
         if move_to_first:
             print("Go to offset")
             self.advance(self.offset)
-            print(f"calibration ended at position {self.position}")
+        
+        print(f"calibration ended at position {self.position}")
