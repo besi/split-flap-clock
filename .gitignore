@@ -1,7 +1,6 @@
 secrets.py
 webrepl_cfg.py
 fabrication-toolkit*
-*.step
 /fp-info-cache
 /*-backups
 /*.kicad_prl
