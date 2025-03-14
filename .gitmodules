@@ -1,3 +1,6 @@
-[submodule "pcb/lib/qwiic-adapter"]
-	path = pcb/lib/qwiic-adapter
-	url = https://github.com/besi/kicad-qwiic-adapter
+[submodule "pcb/lib/28byj"]
+	path = pcb/lib/28byj
+	url = https://github.com/besi/kicad-28byj
+[submodule "pcb/lib/dcf77"]
+	path = pcb/lib/dcf77
+	url = https://github.com/besi/kicad-dcf77
