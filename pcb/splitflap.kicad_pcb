@@ -503,7 +503,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/lib/4341x30258x6_rev1.stp"
+		(model "${KIPRJMOD}/lib/434133025816.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1579,7 +1579,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/lib/4341x30258x6_rev1.stp"
+		(model "${KIPRJMOD}/lib/434133025816.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2264,7 +2264,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/lib/4341x30258x6_rev1.stp"
+		(model "${KIPRJMOD}/lib/434133025816.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4267,7 +4267,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/lib/4341x30258x6_rev1.stp"
+		(model "${KIPRJMOD}/lib/434133025816.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13967,7 +13967,7 @@
 		(at 165.925 60.25 -90)
 		(descr "JST SH series connector, BM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST SH vertical")
-		(property "Reference" "U10"
+		(property "Reference" "J12"
 			(at 0 3.3 90)
 			(layer "B.SilkS")
 			(uuid "a56c4b5c-c301-49bb-82da-128f36743165")
@@ -13979,7 +13979,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "I2C"
 			(at 0 -3.3 90)
 			(layer "B.Fab")
 			(uuid "69274dfe-d3d7-4c0f-8e06-2a4e1c87d66b")
@@ -14005,7 +14005,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-SRSS-TB/926696"
+		(property "Datasheet" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14019,7 +14019,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14033,21 +14033,8 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "BM04B-SRSS-TB"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "e5ff4b9f-a843-4c4e-948a-666533ebdefc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(path "/02f4e814-ddf6-44d4-bcd3-3d705577a59f")
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/e8d830e2-aeba-4223-9db0-df43ff8b835f")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
 		(attr smd)
@@ -14389,8 +14376,8 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
 			(net 3 "GND")
-			(pinfunction "GND")
-			(pintype "power_in")
+			(pinfunction "Pin_1")
+			(pintype "passive")
 			(uuid "89e47e8c-c350-49a7-a63d-a1ee7eca1e5c")
 		)
 		(pad "2" smd roundrect
@@ -14399,8 +14386,8 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
 			(net 4 "+3V3")
-			(pinfunction "3V3")
-			(pintype "power_in")
+			(pinfunction "Pin_2")
+			(pintype "passive")
 			(uuid "4ad02aac-9cc8-4bf0-8db3-5e4c73d9945c")
 		)
 		(pad "3" smd roundrect
@@ -14409,8 +14396,8 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
 			(net 5 "/SWB_SDA")
-			(pinfunction "SDA")
-			(pintype "bidirectional")
+			(pinfunction "Pin_3")
+			(pintype "passive")
 			(uuid "d4a1d8fa-5638-4c8b-b48e-8926cbdfd999")
 		)
 		(pad "4" smd roundrect
@@ -14419,8 +14406,8 @@
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
 			(net 17 "/SWA_SCL")
-			(pinfunction "SCL")
-			(pintype "input")
+			(pinfunction "Pin_4")
+			(pintype "passive")
 			(uuid "2a1aa41b-5b07-4707-8dff-8a25183827c4")
 		)
 		(pad "MP" smd roundrect
