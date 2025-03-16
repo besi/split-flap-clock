@@ -502,7 +502,7 @@
       },
       {
         "netclass": "POWER",
-        "pattern": "GND"
+        "pattern": "GND*"
       },
       {
         "netclass": "POWER",
