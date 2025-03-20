@@ -8671,7 +8671,7 @@
 		)
 		(uuid "ff37714f-a187-4341-b7d1-dc5932418534")
 	)
-	(label "MOTOR-B-1"
+	(label "MOTOR-C-1"
 		(at 229.87 80.01 180)
 		(effects
 			(font
@@ -8682,7 +8682,7 @@
 		(uuid "056bbcb3-90b4-41b9-9e6b-894df535beae")
 	)
 	(label "MOUT-B3"
-		(at 267.97 88.9 180)
+		(at 267.97 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8701,7 +8701,7 @@
 		)
 		(uuid "0b26c337-e8a9-4a97-b3ee-45ba40c9ba6d")
 	)
-	(label "MOUT-A2"
+	(label "MOUT-D2"
 		(at 267.97 72.39 180)
 		(effects
 			(font
@@ -8711,7 +8711,7 @@
 		)
 		(uuid "101ad9a1-104a-46ec-ba7c-9407caf83f72")
 	)
-	(label "MOTOR-B-2"
+	(label "MOTOR-C-2"
 		(at 229.87 82.55 180)
 		(effects
 			(font
@@ -8721,7 +8721,7 @@
 		)
 		(uuid "1368f920-4490-422f-a224-5fac931b4035")
 	)
-	(label "MOTOR-B-1"
+	(label "MOTOR-C-1"
 		(at 133.35 144.78 0)
 		(effects
 			(font
@@ -8731,7 +8731,7 @@
 		)
 		(uuid "16984245-08c2-4f70-a113-5e45db092d66")
 	)
-	(label "MOTOR-D-2"
+	(label "MOTOR-A-2"
 		(at 229.87 124.46 180)
 		(effects
 			(font
@@ -8741,7 +8741,7 @@
 		)
 		(uuid "18b60cb7-6c1f-49b3-9f08-639b7cabfbd3")
 	)
-	(label "MOTOR-C-3"
+	(label "MOTOR-B-3"
 		(at 133.35 137.16 0)
 		(effects
 			(font
@@ -8751,7 +8751,7 @@
 		)
 		(uuid "1c78379c-7f45-4f02-8a49-f3e549f08bf8")
 	)
-	(label "MOTOR-D-1"
+	(label "MOTOR-A-1"
 		(at 229.87 121.92 180)
 		(effects
 			(font
@@ -8761,7 +8761,7 @@
 		)
 		(uuid "1f09184b-9a51-46e9-b1cc-cf1b028f53b9")
 	)
-	(label "MOTOR-D-3"
+	(label "MOTOR-A-3"
 		(at 229.87 127 180)
 		(effects
 			(font
@@ -8781,7 +8781,7 @@
 		)
 		(uuid "317d36d6-deef-4094-8c8a-02ccd83cf977")
 	)
-	(label "MOTOR-D-1"
+	(label "MOTOR-A-1"
 		(at 133.35 109.22 0)
 		(effects
 			(font
@@ -8801,7 +8801,7 @@
 		)
 		(uuid "378a0ced-2e62-4e94-b69b-ed306fca1a12")
 	)
-	(label "MOTOR-B-4"
+	(label "MOTOR-C-4"
 		(at 133.35 99.06 0)
 		(effects
 			(font
@@ -8811,7 +8811,7 @@
 		)
 		(uuid "3b3aac2d-ade8-4407-b173-f5033c60c270")
 	)
-	(label "MOTOR-B-4"
+	(label "MOTOR-C-4"
 		(at 229.87 87.63 180)
 		(effects
 			(font
@@ -8831,7 +8831,7 @@
 		)
 		(uuid "4b6f7d78-41f4-4381-8317-72553d8e52eb")
 	)
-	(label "MOTOR-D-2"
+	(label "MOTOR-A-2"
 		(at 133.35 106.68 0)
 		(effects
 			(font
@@ -8852,7 +8852,7 @@
 		(uuid "5084ed62-c401-4a6e-a0b5-840a6061dfb7")
 	)
 	(label "MOUT-B2"
-		(at 267.97 86.36 180)
+		(at 267.97 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8881,7 +8881,7 @@
 		)
 		(uuid "5c18b73f-4a03-44fa-986d-e07ed69db9f7")
 	)
-	(label "MOTOR-A-2"
+	(label "MOTOR-D-2"
 		(at 229.87 72.39 180)
 		(effects
 			(font
@@ -8891,7 +8891,7 @@
 		)
 		(uuid "5c882acc-455b-4ce5-b016-7bff7a7e341c")
 	)
-	(label "MOUT-A1"
+	(label "MOUT-D1"
 		(at 267.97 69.85 180)
 		(effects
 			(font
@@ -8901,7 +8901,7 @@
 		)
 		(uuid "5d84ea4a-3b6f-4c44-a60f-100a5ec18607")
 	)
-	(label "MOTOR-B-3"
+	(label "MOTOR-C-3"
 		(at 133.35 139.7 0)
 		(effects
 			(font
@@ -8921,7 +8921,7 @@
 		)
 		(uuid "638948e8-8661-43eb-96d5-c73d8e2dfb3f")
 	)
-	(label "MOTOR-A-3"
+	(label "MOTOR-D-3"
 		(at 229.87 74.93 180)
 		(effects
 			(font
@@ -8931,7 +8931,7 @@
 		)
 		(uuid "63d5b427-de9a-466f-9c22-8c90bb73b2a8")
 	)
-	(label "MOTOR-A-1"
+	(label "MOTOR-D-1"
 		(at 133.35 86.36 0)
 		(effects
 			(font
@@ -8942,7 +8942,7 @@
 		(uuid "63e70b76-96a9-46db-888a-25a0dcb9bcee")
 	)
 	(label "MOUT-C3"
-		(at 267.97 116.84 180)
+		(at 267.97 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8951,7 +8951,7 @@
 		)
 		(uuid "686ce44f-f42c-40b4-8d51-15957f43b5ac")
 	)
-	(label "MOTOR-B-3"
+	(label "MOTOR-C-3"
 		(at 229.87 85.09 180)
 		(effects
 			(font
@@ -8962,7 +8962,7 @@
 		(uuid "6a8aec2e-121a-475e-b21d-ca92eadf24fe")
 	)
 	(label "MOUT-B1"
-		(at 267.97 83.82 180)
+		(at 267.97 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8971,7 +8971,7 @@
 		)
 		(uuid "7278f00c-7222-42f2-9ed3-7cf0dec2d94b")
 	)
-	(label "MOUT-A4"
+	(label "MOUT-D4"
 		(at 267.97 77.47 180)
 		(effects
 			(font
@@ -8981,7 +8981,7 @@
 		)
 		(uuid "72e7eae7-fd30-424a-8a85-30da1233ee81")
 	)
-	(label "HALL_B"
+	(label "HALL_D"
 		(at 34.29 95.25 0)
 		(effects
 			(font
@@ -9001,7 +9001,7 @@
 		)
 		(uuid "75bb64b9-5b9b-4c74-929e-16f29795179e")
 	)
-	(label "MOTOR-C-3"
+	(label "MOTOR-B-3"
 		(at 229.87 116.84 180)
 		(effects
 			(font
@@ -9021,7 +9021,7 @@
 		)
 		(uuid "7ff75941-ef93-4085-9689-07b8bf76e8a4")
 	)
-	(label "MOTOR-C-2"
+	(label "MOTOR-B-2"
 		(at 133.35 119.38 0)
 		(effects
 			(font
@@ -9031,7 +9031,7 @@
 		)
 		(uuid "809d0bce-e44f-461c-922d-fdd632f6df5d")
 	)
-	(label "MOTOR-C-1"
+	(label "MOTOR-B-1"
 		(at 229.87 111.76 180)
 		(effects
 			(font
@@ -9051,7 +9051,7 @@
 		)
 		(uuid "8e680e64-86e9-48fe-94a7-176f98525214")
 	)
-	(label "HALL_D"
+	(label "HALL_B"
 		(at 133.35 114.3 0)
 		(effects
 			(font
@@ -9071,7 +9071,7 @@
 		)
 		(uuid "93682829-2315-4d97-8b2f-fc9c18d60404")
 	)
-	(label "MOTOR-C-4"
+	(label "MOTOR-B-4"
 		(at 133.35 111.76 0)
 		(effects
 			(font
@@ -9081,7 +9081,7 @@
 		)
 		(uuid "953189c9-eb13-4f75-819b-b533beaa2957")
 	)
-	(label "MOTOR-D-4"
+	(label "MOTOR-A-4"
 		(at 133.35 104.14 0)
 		(effects
 			(font
@@ -9101,7 +9101,7 @@
 		)
 		(uuid "961fec1f-0471-490c-ad52-8cb04bdb318d")
 	)
-	(label "MOTOR-C-1"
+	(label "MOTOR-B-1"
 		(at 133.35 116.84 0)
 		(effects
 			(font
@@ -9121,7 +9121,7 @@
 		)
 		(uuid "989e8973-03f8-41fe-9566-b43b042ffdfe")
 	)
-	(label "MOUT-D2"
+	(label "MOUT-A2"
 		(at 267.97 130.81 180)
 		(effects
 			(font
@@ -9131,7 +9131,7 @@
 		)
 		(uuid "9ee23cf1-1446-4419-af21-b967e856e34c")
 	)
-	(label "MOTOR-A-2"
+	(label "MOTOR-D-2"
 		(at 133.35 88.9 0)
 		(effects
 			(font
@@ -9141,7 +9141,7 @@
 		)
 		(uuid "9fca1121-7af3-4f2c-81a2-fd117a160ddb")
 	)
-	(label "MOTOR-C-4"
+	(label "MOTOR-B-4"
 		(at 229.87 119.38 180)
 		(effects
 			(font
@@ -9151,7 +9151,7 @@
 		)
 		(uuid "aaa76a26-c640-474e-a5b1-2de00808e121")
 	)
-	(label "MOTOR-D-3"
+	(label "MOTOR-A-3"
 		(at 133.35 91.44 0)
 		(effects
 			(font
@@ -9171,7 +9171,7 @@
 		)
 		(uuid "ac5ba675-bbb5-4b33-a2ff-7374a495053c")
 	)
-	(label "HALL_D"
+	(label "HALL_B"
 		(at 34.29 130.81 0)
 		(effects
 			(font
@@ -9191,7 +9191,7 @@
 		)
 		(uuid "b7c3bf29-ceb6-41c3-b5cb-f89246062d4b")
 	)
-	(label "MOTOR-A-4"
+	(label "MOTOR-D-4"
 		(at 229.87 77.47 180)
 		(effects
 			(font
@@ -9201,7 +9201,7 @@
 		)
 		(uuid "b8ebde8c-a3cd-4e17-9ced-a76b53404192")
 	)
-	(label "MOTOR-A-1"
+	(label "MOTOR-D-1"
 		(at 229.87 69.85 180)
 		(effects
 			(font
@@ -9211,7 +9211,7 @@
 		)
 		(uuid "bd77e5fd-d6c9-4e03-8a94-5d706683675f")
 	)
-	(label "MOTOR-B-2"
+	(label "MOTOR-C-2"
 		(at 133.35 142.24 0)
 		(effects
 			(font
@@ -9221,7 +9221,7 @@
 		)
 		(uuid "c10df7ec-2936-4df6-bf21-cf123d0f349b")
 	)
-	(label "MOUT-D1"
+	(label "MOUT-A1"
 		(at 267.97 128.27 180)
 		(effects
 			(font
@@ -9252,7 +9252,7 @@
 		(uuid "cbce8f02-671f-4160-a95f-eff1cd6a4638")
 	)
 	(label "MOUT-C2"
-		(at 267.97 114.3 180)
+		(at 267.97 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9272,7 +9272,7 @@
 		(uuid "ccf3352e-bbdd-4e89-abc2-29a97186c2a4")
 	)
 	(label "MOUT-C1"
-		(at 267.97 111.76 180)
+		(at 267.97 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9281,7 +9281,7 @@
 		)
 		(uuid "d0e05dd5-e628-47bc-93d3-b9d55f22b5a8")
 	)
-	(label "MOTOR-A-3"
+	(label "MOTOR-D-3"
 		(at 133.35 149.86 0)
 		(effects
 			(font
@@ -9301,7 +9301,7 @@
 		)
 		(uuid "d2827abb-7d6c-4e46-adc9-a1b16214352e")
 	)
-	(label "MOTOR-D-4"
+	(label "MOTOR-A-4"
 		(at 229.87 129.54 180)
 		(effects
 			(font
@@ -9322,7 +9322,7 @@
 		(uuid "db46c2d1-00f8-47b8-91f9-cf7b6733ea5f")
 	)
 	(label "MOUT-C4"
-		(at 267.97 119.38 180)
+		(at 267.97 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9342,7 +9342,7 @@
 		(uuid "dceb272c-962f-45c7-8b57-55e7bdbd17b4")
 	)
 	(label "MOUT-B4"
-		(at 267.97 91.44 180)
+		(at 267.97 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9351,7 +9351,7 @@
 		)
 		(uuid "dd8b5289-0ba7-4e44-a5dd-b60e0350732d")
 	)
-	(label "MOUT-D3"
+	(label "MOUT-A3"
 		(at 267.97 133.35 180)
 		(effects
 			(font
@@ -9381,7 +9381,7 @@
 		)
 		(uuid "ed71ff25-a863-4bc9-aba2-9edfd0dd3f7d")
 	)
-	(label "MOUT-D4"
+	(label "MOUT-A4"
 		(at 267.97 135.89 180)
 		(effects
 			(font
@@ -9401,7 +9401,7 @@
 		)
 		(uuid "f394b67c-64a2-4319-bce1-c3e235db5cd5")
 	)
-	(label "HALL_B"
+	(label "HALL_D"
 		(at 133.35 165.1 0)
 		(effects
 			(font
@@ -9411,7 +9411,7 @@
 		)
 		(uuid "f4b3fc86-5faa-4164-9219-297fc374416b")
 	)
-	(label "MOUT-A3"
+	(label "MOUT-D3"
 		(at 267.97 74.93 180)
 		(effects
 			(font
@@ -9421,7 +9421,7 @@
 		)
 		(uuid "f67704a3-10c9-4477-a88f-e4515cb8d559")
 	)
-	(label "MOTOR-A-4"
+	(label "MOTOR-D-4"
 		(at 133.35 147.32 0)
 		(effects
 			(font
@@ -9431,7 +9431,7 @@
 		)
 		(uuid "f81fa266-286f-4f43-9256-a7b1d59a9fd7")
 	)
-	(label "MOTOR-C-2"
+	(label "MOTOR-B-2"
 		(at 229.87 114.3 180)
 		(effects
 			(font
@@ -9779,7 +9779,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "AH1815-W-7"
+		(property "Value" "Hall A1"
 			(at 250.19 30.48 0)
 			(effects
 				(font
@@ -9815,7 +9815,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "AH1815-W-7"
 			(at 243.84 31.75 0)
 			(effects
 				(font
@@ -12499,7 +12499,7 @@
 				)
 			)
 		)
-		(property "Value" "Hall-D"
+		(property "Value" "Hall B"
 			(at 29.21 125.095 0)
 			(effects
 				(font
@@ -12838,7 +12838,7 @@
 				)
 			)
 		)
-		(property "Value" "Hall A"
+		(property "Value" "Hall A1"
 			(at 29.21 71.12 0)
 			(effects
 				(font
@@ -14634,7 +14634,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "AH1815-W-7"
+		(property "Value" "Hall A2"
 			(at 250.19 5.08 0)
 			(effects
 				(font
@@ -14670,7 +14670,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "AH1815-W-7"
 			(at 243.84 6.35 0)
 			(effects
 				(font
@@ -15085,7 +15085,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x05"
+		(property "Value" "Motor D"
 			(at 275.59 76.1999 0)
 			(effects
 				(font
@@ -15678,7 +15678,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x05"
+		(property "Value" "Motor C"
 			(at 275.59 90.1699 0)
 			(effects
 				(font
@@ -15766,7 +15766,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x05"
+		(property "Value" "Motor A"
 			(at 275.59 134.6199 0)
 			(effects
 				(font
@@ -16267,7 +16267,7 @@
 				)
 			)
 		)
-		(property "Value" "Hall B"
+		(property "Value" "Hall D"
 			(at 29.21 89.535 0)
 			(effects
 				(font
@@ -16965,7 +16965,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x05"
+		(property "Value" "Motor B"
 			(at 275.59 118.1099 0)
 			(effects
 				(font
