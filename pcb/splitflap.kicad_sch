@@ -10270,15 +10270,15 @@
 		(fields_autoplaced yes)
 		(uuid "20c450a7-3df7-40d9-b18f-7b6ffb04443f")
 		(property "Reference" "J7"
-			(at 43.18 -5.08 0)
+			(at 43.18 -3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Barrel_Jack_Switch"
-			(at 43.18 -2.54 0)
+		(property "Value" "BarrelJack Horizontal"
+			(at 43.18 -1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12766,7 +12766,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5ccea29b-e4e6-438a-bf40-c23c2575466c")
 		(property "Reference" "J8"
 			(at 26.67 77.47 0)
@@ -17740,9 +17740,9 @@
 		(at 44.45 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "e4bf9223-1b7a-4eae-bdab-cbe4ebe23b91")
 		(property "Reference" "J5"
@@ -17753,7 +17753,7 @@
 				)
 			)
 		)
-		(property "Value" "Barrel_Jack_Switch"
+		(property "Value" "BarrelJack Vertical"
 			(at 44.45 22.86 0)
 			(effects
 				(font
@@ -18316,7 +18316,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "fdbeadf7-0215-477e-8db0-6691a8fbdf6a")
 		(property "Reference" "U8"
