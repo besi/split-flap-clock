@@ -232,10 +232,36 @@
 				)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec9a96cf-1b79-4aec-9567-a9c6a53fb3c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b36d677-aa03-45de-ad40-6eaff908e9e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4298c897-f22e-472c-8bff-27c0cdb9cd96")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 2.2 0.05)
 			(end 2.2 -0.05)
@@ -601,6 +627,32 @@
 				)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ede7a6e-4a06-4091-b94e-eac7a9be4f81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a0284b1-df0e-4979-90a5-a226caccf24d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/84887ed3-6d03-47b1-b8b0-19b9099992ab")
 		(sheetname "Root")
@@ -921,6 +973,32 @@
 				)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebc31924-37df-4e20-8255-d505a5978ec1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ed26645-dad1-4089-80c2-cc64505bd21b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a0bb17f2-f86f-44f0-ba66-a32ff08a2541")
 		(sheetname "Root")
@@ -1149,6 +1227,32 @@
 				)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3754c4c-f78c-4731-8cd4-ecb4d0055506")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33a6a8bd-70ec-4389-bf63-ca9d9f08127b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b2fd2ecb-37c2-4956-bd0f-874713238601")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
@@ -1321,10 +1425,36 @@
 				)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e42c378-f64a-4c51-acc6-114be70cda70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df4eae37-c42f-43f8-9ffa-fb01c21be2e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f504b0ff-9c49-48ae-9eaa-bc251c9e16bc")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 2.2 0.05)
 			(end 2.2 -0.05)
@@ -1683,6 +1813,32 @@
 				)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "287da0d3-cb24-4ac0-8f68-05e2f71854d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b953ab89-2606-4ade-979d-4b0bbfe3c41c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "BarrelJack*")
 		(path "/e4bf9223-1b7a-4eae-bdab-cbe4ebe23b91")
 		(sheetname "Root")
@@ -2006,10 +2162,36 @@
 				)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a5eda62-ac55-4c16-a592-72bc02a3f89c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33c5ee45-09fb-4945-83ec-194d7ba79daa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2cfa9ed9-273e-4614-8b24-b8e964c02a67")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 2.2 0.05)
 			(end 2.2 -0.05)
@@ -2394,6 +2576,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25dc5940-2144-46af-b268-a88837534ae0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fde34a9d-2367-4f95-bf35-3ace001ddc03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/ae7c2f19-9cde-4e55-86cf-b45345fe66c9")
 		(sheetname "Root")
@@ -2520,6 +2730,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1543e9a1-a37e-4c80-b4b0-5602b0e04ea8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3e1ace0a-a255-4a96-a005-aa9105eb6815")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "82e2c243-ae22-4e85-8dde-3ddded072bca")
 			(effects
 				(font
 					(size 1 1)
@@ -2980,11 +3218,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07a99124-3118-4929-80e6-98ee0337c8a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f40cd72a-0b08-4444-a020-d20e13f29dda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4011d274-50a7-4681-978b-69353a9355d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0d225839-b067-4759-a71e-c39b9af3f595")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -3103,11 +3383,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b0f4ddcf-2875-4392-b6b1-048f25985852")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4b03e87c-69df-4a08-88c6-6608fbc9ec99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "00229e4d-3b27-47cf-921a-f755354618c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/79292574-9c4a-4f58-aa3d-e8cb678447d2")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -3214,11 +3536,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e615b19f-4636-4713-b73b-1afd7d10e91d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "658a2efc-d6e0-42ac-9f13-5439aa29483b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "67f1a88c-484a-4ade-b1aa-9b940f93f117")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/82d9972b-be12-482d-a60b-33d6d215ff99")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -3330,6 +3694,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "faa5d0b4-4965-4e1c-ad35-6168856e43cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb8cc577-f2ba-4777-8650-7169e4d4a27b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "76c6cec4-929a-4dc9-9f94-3ebc14a928b3")
 			(effects
 				(font
 					(size 1 1)
@@ -3553,6 +3945,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a2b421f6-bad7-41b9-86c3-3408737c4933")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "46a03d9c-5016-412b-a76b-103530bfe4fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ab1c9943-3ad0-4a98-94a0-25c0b73f31fa")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -4085,11 +4519,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0e83f3a-534e-4561-ac4b-da6c77b4b407")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4f34c08a-e444-4848-b6f3-edd06abc43d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e055da99-0374-460d-a211-800cb6404ece")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f72271fa-743e-4bc0-92e5-b2d0c043d13b")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -4198,6 +4674,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b314dd7f-d751-400f-b6b3-0b3b41bbd574")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "47f288ab-f9d5-4bf9-9528-b45a4e5220d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a1818414-852d-40a9-9f7d-373ce894f298")
 			(effects
 				(font
 					(size 1 1)
@@ -4472,6 +4976,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a23a5087-97f8-4322-9883-b3690ebfe939")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4f281756-c066-4b99-8b7e-8a10031d3afb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e5ac2674-1121-4f6c-a6bf-fa6e8a1553a4")
 			(effects
 				(font
 					(size 1 1)
@@ -4844,10 +5376,38 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d89ee104-32b8-418e-a8c8-56b7a853e322")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "88d8ab6e-6298-4d0c-bc3c-676d69dd061f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/dd6e752f-1e38-481c-9953-798016446160")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 1.33 -1.27)
 			(end -1.33 -1.27)
@@ -5140,11 +5700,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "534bc93f-6380-4d39-b9b5-5944d13c1850")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a6145919-5edf-45fb-acd2-63889b1674d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2075ee29-d7a6-4298-8dd3-ac6aaa609733")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5bae330c-5e6f-459a-87d3-b3a43e940db3")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -5251,11 +5853,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "88137d5a-9e28-4c56-80ce-f5096c3ef370")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e432dfc3-6ecf-4018-8eaf-72fe706fe0ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "224e6662-9429-4cd2-a19e-e01d586ee3d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0fc868db-344f-4529-a661-5cc78837d990")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -5379,6 +6023,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b40703ef-94fa-4b91-9a47-79476dad1569")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0733a372-e152-4201-a86f-8ec250ee37d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8d176472-760f-43da-8b18-516e9a932b07")
 			(effects
 				(font
 					(size 1 1)
@@ -5866,6 +6538,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e0ecf364-516b-4617-828f-c989ce279e23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c9c94e27-9740-49fa-ac65-08ded7c137d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/a50be56f-7c03-4047-956e-dc536fb1c70f")
 		(sheetname "Root")
@@ -5992,6 +6692,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ebaa4ca5-5cd8-4381-b834-a03e2ecfb32b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ff04ed29-d88f-4334-a88a-6f56ddd5cb0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dfade21a-d454-4374-a445-188a7f402714")
 			(effects
 				(font
 					(size 1 1)
@@ -6354,6 +7082,48 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c18034c3-7456-4c77-82a3-b6f136cf25b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "efe9f548-b08c-4fd7-a5e3-24307ddce6b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1ee2e941-58e4-4f1d-8e85-807f5d3ac739")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO*92*")
 		(path "/80fb5d8d-8d88-48b5-baf9-8bfd19d629cd")
 		(sheetname "Root")
@@ -6623,6 +7393,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8f0ef6ab-83d3-470e-91ed-9379f0b01c97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "03be63ee-0738-45c6-bead-53e3ba9e33cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c6fa0fd-8cac-45da-a6e6-df3ece487fae")
 			(effects
 				(font
 					(size 1 1)
@@ -7588,6 +8386,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db8a6bdd-9b7a-4799-a7df-fe064631b5a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9f8c1642-0ef5-4b06-a3d5-0de3c55eb13b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/d6c52aac-335b-4dde-8dc4-fdba8392f69d")
 		(sheetname "Root")
@@ -7849,11 +8675,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ed399aeb-bc3f-46f7-a1b9-9612ce35ef56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "54742ef5-3026-4f6e-b496-379a3e8b918b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f717389-a333-4e07-ad09-6f09126c4697")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f9209da4-33ba-41f3-a0b5-25e6491236e1")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -7965,6 +8833,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "707b5059-bfaf-43bf-aaf2-ea698cdb68c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d893276-ccc3-499a-8555-7b22f8ecdb89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f05f2e10-c949-4d7a-86f9-30eabbeb5bce")
 			(effects
 				(font
 					(size 1 1)
@@ -8426,6 +9322,48 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a87d4d23-3311-450f-8ad5-1da3d4742d9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64e52c8a-2fec-4155-8789-4de576a02ea0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3219ee82-dda8-48fc-9c76-c122c1a25d3c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/29d091ae-b12a-427c-994f-38bbf78d6a93")
 		(sheetname "Root")
@@ -8818,6 +9756,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "940135b2-745c-4698-8875-cdb71e6ace4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a212dc72-fe39-4143-bd51-82ccbb1dbd42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cd05d704-a5bc-438e-baa9-b1928e6c286e")
 			(effects
 				(font
 					(size 1 1)
@@ -9315,6 +10281,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "32e0407b-5363-4a42-9432-6ff4e65ddb72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c5598eb9-d6b7-46c0-b35a-d606924dea81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/82febc64-1f21-48be-a3c2-eb76c4df5050")
 		(sheetname "Root")
@@ -9536,11 +10530,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "747828ff-7be5-45f9-91b7-fb7d6c47f006")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e338b4ab-2ac4-4cff-89f4-075659c2e303")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7fb2ab82-e4c0-4bf7-8a8c-be596c95b826")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/9dbe50a6-2373-474d-85de-c3a7af3cda1f")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -9647,11 +10683,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "04e236e1-ea06-4208-89e4-dde0877fc122")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "60044441-b4a3-411b-b9ea-fa8be8aec2b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf33c0a3-160c-4bfc-b352-9a15643e83c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c607a147-b45e-47fc-aef2-2a7d3bfdd34c")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -9752,6 +10830,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0db0b4cb-a3cd-470c-8a9f-3047a4b17442")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0270c327-7295-4361-a8f0-4ffa5e6a6454")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d4d90792-5f0c-42b4-9bce-cae6b0eb1748")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -9978,11 +11098,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c00f0fb-29ba-4f5d-9dd3-ca8a765caed5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bcaec21d-cc28-41a3-936b-0167e23d2da8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "14e4af3f-e316-4a74-b11b-1a52c9f23290")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/20a35f34-5394-4081-98ef-80d7c0e72e1d")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -10094,6 +11256,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0bf91b53-193e-4b55-aa6a-999ca9292b92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15139bb2-8ce7-41bc-b176-a0a9008a1d05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b5671818-7308-4a3b-a189-2ba333d24711")
 			(effects
 				(font
 					(size 1 1)
@@ -10301,6 +11491,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "561daca8-d882-4e4e-8d4d-f11773746fb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "047a0642-3e52-4f26-bd5c-31d774fd39b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dacdbb1a-d901-4504-84b8-a4c6dfc8c4b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "97596bce-c819-476c-b3cd-01029c6de755")
 			(effects
 				(font
 					(size 1 1)
@@ -10758,6 +11990,48 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df69c87b-c772-4125-a292-6c470fae9a11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2bd17206-bb9b-4e20-95e0-91719867f4d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b325d27b-cf29-4c75-8b3f-e7c4ef526113")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/c2430545-958e-4134-a97f-78a3c1ea50bd")
 		(sheetname "Root")
@@ -10984,6 +12258,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3ac5a04e-06e7-4602-b5b5-f3f01eebac46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8d8e1bba-8821-42d2-a71a-3bba9cb3160a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "817c6fcb-bd0c-4967-a09f-d1b97d4bdd68")
 			(effects
 				(font
 					(size 1 1)
@@ -11267,11 +12569,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a27c1714-8c74-48c7-870e-6c20f9177ad9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c45c27ff-0a14-481e-be9a-27293bd9109e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6f407be4-19e2-4b51-bc59-c9a77d7de476")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/b6184718-5d80-44ed-860d-2209b2d3d9c1")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -11378,11 +12722,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "53353d80-1f51-4e76-9890-45fff3d34049")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f23a2f02-e1a4-44e0-9970-f7fc3abf085a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c70849fd-a8d1-4390-b333-69570fe4bf88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/d048e1a7-f9d6-40f6-ae98-a6bcec714633")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -11494,6 +12880,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f5293453-d547-4a70-affd-5b76403da367")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "582a7116-772e-4b2e-a4d2-8e7498c8c14a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66064b0c-01db-411b-b02d-e06218d80b91")
 			(effects
 				(font
 					(size 1 1)
@@ -12000,6 +13414,48 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2797fcbe-1c82-4020-8867-3313485577bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "10582ea3-3d94-42e8-ae72-004b6a12a49c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f4cabb64-d816-4afa-a365-5cee244579a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/fdbeadf7-0215-477e-8db0-6691a8fbdf6a")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
@@ -12287,11 +13743,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0792c5eb-0d0b-4114-8f6e-75a7896b5c2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "96912b4d-e4c5-4ce9-8f49-d9f73a1079ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2b442405-d5a4-472d-b0a0-70281d9d9d70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e610cf64-75ae-4a11-9c2d-fea737c246f5")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -12398,11 +13896,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15c7cad4-05e8-432c-b236-f2c231ec6071")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6d4c581d-d22a-49ff-b0cc-73dcb52c95da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "923a2020-900d-4983-9745-a77ebd740933")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/cf68b584-9592-4826-a650-0271688275a6")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -12503,6 +14043,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2811fe39-90fd-40b9-a7c3-e96a08a7b3f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e3ac357b-de1b-4157-b78a-a924f574b1a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "51fa4315-70d2-41f0-9b41-56f6b1104e24")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -12764,6 +14346,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "74065c05-12bd-4a77-8a53-daabdbdfd2b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bbcb4304-df5f-4770-977e-8d6765f57398")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f108b978-8800-4f01-b227-360f5218728e")
 		(sheetname "Root")
@@ -12990,6 +14600,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ff26dd8b-e365-44b1-b5bd-5746ebc98b81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7b60f18d-b7fa-4a32-bd8a-54592ccf0e49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "169d9c12-f414-46eb-87e9-8ca33dbfb916")
 			(effects
 				(font
 					(size 1 1)
@@ -13538,6 +15176,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "54e9cfb2-c018-4383-a1db-2d1465676113")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "43d712ec-c776-4b03-9358-4dfa3b71898e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/3deb24a9-d238-4c0a-9ccf-6bd84c41fd33")
 		(sheetname "Root")
@@ -14003,6 +15669,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df46284e-256c-4832-9080-a7ac37e60d89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "02038f77-6dae-4b57-835f-e05c7214ba24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/3db050b1-d2dd-4dfc-a441-45c7d60871d1")
 		(sheetname "Root")
@@ -14229,6 +15923,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "773fb774-8edc-4510-8d9f-60976d0c8c45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2724fe70-0d98-430d-9505-5ffcaf82aa6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8bdc9a5f-53c8-4445-b0b2-3036479967c6")
 			(effects
 				(font
 					(size 1 1)
@@ -14777,6 +16499,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2a219f7c-91cb-4cf6-b54f-58dbcde32425")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42e2053e-0bb4-416f-a686-d61043d2cf0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/da7641c9-d874-4ff4-867c-eba4adde2d98")
 		(sheetname "Root")
@@ -15067,6 +16817,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0c68c794-092d-4a99-a944-82eeba0cd279")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e71502b7-f4a0-47de-9620-8d0beddf0b1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f49f91fc-9b2a-4855-bcd3-39c309b15c08")
 			(effects
 				(font
 					(size 1 1)
@@ -15587,6 +17365,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15c103cd-2af2-4d89-9254-b9a4742a8969")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2ccb1a5a-c1c5-42a0-9422-324fb61fa7a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/a302c244-dbbf-40dd-a94b-b7fbf82609ce")
 		(sheetname "Root")
@@ -15810,6 +17616,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b9548789-2cc7-446f-b9fd-854dd06623cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6403ac48-8f8f-4c95-9386-ff7b317adbe5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "670d7d91-7b16-4198-bd52-5064d07db667")
 			(effects
 				(font
 					(size 1 1)
@@ -16356,6 +18190,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4ebdc56c-ab8a-4626-af8d-249e6d1031cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a4f4bb65-df76-4c6a-b7c4-62e62043afc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cb2f4dc-7e1e-4352-9f3a-19333e388ef8")
 		(sheetname "Root")
@@ -16571,6 +18433,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "daaddc3a-fa2c-459f-abfb-c7185a50246f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d5fdf1e9-56ca-431d-9d67-788a6b5933c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f9c2c226-2484-4953-8e93-aabe95d1c52b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -17063,6 +18967,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0ac5304a-4e01-451e-9cd7-8a9b318ffead")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1373b0b5-7d6a-4534-91a5-3c82ea0dd24f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/4a0ac52a-3ec9-4966-8ded-883b19969495")
 		(sheetname "Root")
@@ -17358,6 +19290,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3775891d-4781-485e-b5bf-427f61c4fe5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6c3a0b5c-49d4-4fe7-a4e7-600804a4f6df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "020afef4-7d3e-4ba9-a7da-accac7ac08dc")
 			(effects
 				(font
 					(size 1 1)
@@ -17824,6 +19784,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a83871cb-e86e-482c-8d42-53c2ce6148ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a5f1b607-7281-4b2a-b43d-923dc46af246")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "958a3e76-8161-4df4-8f26-74bbb1014178")
 			(effects
 				(font
 					(size 1 1)
@@ -18444,6 +20432,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ab9fc1d-13f7-45ac-972d-396bf685ca41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "90af95ee-816e-467b-b656-09847a3ad2c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5fa43c83-bf37-4505-ba86-348d5b39bb48")
 		(sheetname "Root")
@@ -18745,7 +20761,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "043ee3d2-0258-43e3-972e-b44b17e97a90")
@@ -18758,7 +20774,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "0f2e01f2-dd3a-4587-9249-53d2459a80f4")
 			(effects
@@ -18817,6 +20833,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bf12197d-3b40-4573-8448-2e79264d6c27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2559f6b5-f054-4dd3-9967-aa8c4edbecc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a1aa1ff0-9415-4e27-97e6-c82d4cb01885")
 			(effects
 				(font
 					(size 1 1)
@@ -18931,7 +20975,7 @@
 			(uuid "4bfde194-080c-4a68-945f-6ef7adbf398d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "e34f10f2-3f47-48d9-8c35-5f064cbaf151")
 			(effects
@@ -19051,6 +21095,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6890bd2e-abe8-4e7f-979d-1dd7e832251d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1ebf2bcc-7bb8-4f83-a880-82f8d5a1f62b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a92b2b49-7332-434b-a623-605a4824b9ac")
 			(effects
 				(font
 					(size 1 1)
@@ -19441,6 +21513,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e3251d46-20a8-4b5a-a141-a8bee80fb40d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2985ea9-c411-4f0f-a5d3-9433a6a69926")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/abba415c-5aa8-48d7-b64f-960deae55b7c")
 		(sheetname "Root")
@@ -19667,6 +21767,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1d84def3-33b5-4a05-8b16-763fbb4c2cf6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c8fd49c7-af47-44a7-96e5-d57b16477e9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3a1e99d7-7fb2-47b9-b11a-bf324b387aef")
 			(effects
 				(font
 					(size 1 1)
@@ -20127,11 +22255,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0861df1d-893d-46b5-8f79-e110667f1264")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "03b818fb-2ded-4c51-be1b-00c7062b5e8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cfa5f0ee-ac7e-4e2e-b336-9a3882599896")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0c2cbda8-cf2d-4f2a-a213-1e114d8eab10")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -20257,6 +22427,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "09addca3-cc8e-4daf-8b26-40c048296569")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d79f5284-a8a6-481b-bc6d-e076b3c725eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "94a9a2de-356b-47f6-a607-cebc5cdb34db")
 			(effects
 				(font
 					(size 1 1)
@@ -20391,6 +22589,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "62a14387-1cc8-45cc-890f-1994776624d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2d0b7d8c-3e00-4504-a9ff-d5b726d288b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f717907e-f881-4fce-86cd-5faa82c66b93")
 			(effects
 				(font
 					(size 1 1)
@@ -20673,6 +22899,48 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cf841692-fdb6-405a-b8b5-8723dd6d66e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01dedbbe-12a3-4e24-ad10-62c1bca9abc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4affa3e9-34c6-4630-a750-00ddd8a3dd90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/3bc55337-f1f9-45d4-aaf1-5a5f3689f51d")
 		(sheetname "Root")
@@ -20894,11 +23162,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9fd5430b-0756-44e8-ac04-ae461a64310c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "33078aeb-f126-448e-bd66-d6169f33b3c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cd753c73-569b-4185-95b9-a43d442a75b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7441f562-10fe-484c-b7ea-aa6385a3eca6")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -21010,6 +23320,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "877a51b3-75e9-4cb1-8ede-51bb3f570363")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "332292a4-2d1f-4481-b476-d8bfddacbec4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "401604a7-35de-4a56-9a95-4065e035dc1c")
 			(effects
 				(font
 					(size 1 1)
@@ -21517,11 +23855,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6ab673bd-abaf-494b-bc13-da8af9f0ad47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a9a16708-5f77-4347-8f01-2107b4556fa6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "300447b9-fc21-4d93-805a-3bbe8ee2d088")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/f1d5e541-1813-422f-9bd7-b56f374682a5")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -21647,6 +24027,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f4d760e8-4186-4b35-b3ad-3e9c5a42d6c1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e57f4a2-22da-4ff4-9cc5-b485d5b2582a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7e3e88cd-425a-4856-8d85-68cefffd1c91")
 			(effects
 				(font
 					(size 1 1)
@@ -21781,6 +24189,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "79e9a251-009a-4779-a8b6-90883697a1e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8f3cab9a-79d6-4d75-904c-aefa9f7b5078")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "81362d93-fda5-478b-ad95-373d287aff93")
 			(effects
 				(font
 					(size 1 1)
@@ -22010,11 +24446,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8128ad06-c806-47fa-9006-5b4d3c588fed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "da44cfd6-e0a5-4c54-8291-2d29f03fbb56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2d26e10-8525-469a-97dc-8834b30292d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/92750695-d430-489f-82d2-6e4730bed30f")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -22121,11 +24599,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f8cb25e-847a-43ec-9126-91121a191e87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fad2f5df-ee24-4715-8377-b37ffccd1524")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "738e03f3-689e-43ee-bf82-afb287476c79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/2f67d7c5-acad-48db-a349-e5311b36f9ac")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -22234,6 +24754,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b8bd8069-0f08-4b71-981a-78d538696027")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "12936907-8c92-437f-9da5-d9ceae6cbf32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f8199781-9c07-4c6c-ab45-605538f39588")
 			(effects
 				(font
 					(size 1 1)
@@ -22651,7 +25199,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C17"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "e1ee2142-6cfe-4169-b43f-ed5582e6887b")
@@ -22664,7 +25212,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "91cfbe49-3d4e-4405-91e7-18bebe93b439")
 			(effects
@@ -22723,6 +25271,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d6da9276-902e-4bd0-8466-8e0265cd66de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aabc53a1-d167-4fa2-a6cc-f7ee0c71a019")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee5105e0-c27f-4655-9230-14e97deedcd9")
 			(effects
 				(font
 					(size 1 1)
@@ -22951,6 +25527,48 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d8521f7e-5a44-4d9a-95df-4f8e01c35180")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "623ee654-ce97-49d8-bd88-033d1f87673c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "34b2b746-15f9-4c24-91ab-53881d8ff8a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bd6fbb6-eafa-452c-aec8-b34d21bce56e")
 		(sheetname "Root")
@@ -23172,11 +25790,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4178646c-02a8-44e2-94fc-f6c8883076dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2dbe98bd-6ddd-4433-aa47-e78be2ce5157")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "761cd2d2-026e-4b4c-9e71-844ce1b5d2c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/d4f6d7c9-c87f-4a7c-95b8-e3e6088e5e91")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -23288,6 +25948,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a9949f01-de6c-4497-bb17-459f469cb911")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7a8c3c45-ceed-4e23-91bd-963b5060e25a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4a9714c1-b57f-4678-aaac-7a50aa4400cc")
 			(effects
 				(font
 					(size 1 1)
@@ -23753,6 +26441,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "651719ab-6e2e-4abc-a7fb-8aea207e215c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2faf3ece-0b80-410a-b0ef-4af73d125287")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "33e5d3cc-5753-4b0d-a0f8-b0dceeb52fa6")
 			(effects
 				(font
 					(size 1 1)
@@ -24288,11 +27004,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "84de79df-11a3-4e26-b14d-6f5656c2fa3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e37e59a-69b3-4e6a-b04e-f24df605dd02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" " "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e2971527-0e60-4f1a-be2a-9169ab55c96e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/729faa4d-77ed-4df7-9553-c7823e2cc0f9")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -24404,6 +27162,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "73c0ad2e-f127-4217-9eff-566be7a1c1f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label1" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0da0b29d-d53f-40c8-b9ce-736c8488eab5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ee47b304-24e6-4058-9051-17d015a4dc96")
 			(effects
 				(font
 					(size 1 1)
@@ -24924,6 +27710,34 @@
 				(justify mirror)
 			)
 		)
+		(property "Label1" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8b4f7104-d935-45b6-ae56-755fe6441c3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Label2" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1ba3e41b-944c-45b9-add2-40b2fcc73f20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7eae254e-e040-4a2b-ba7f-2106f6332052")
 		(sheetname "Root")
@@ -25180,6 +27994,17 @@
 		(fill none)
 		(layer "F.SilkS")
 		(uuid "1684247e-6e2d-49bc-b0a5-a89fb38b6a98")
+	)
+	(gr_rect
+		(start 110 59.6)
+		(end 145 67.6)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "1734aa76-0061-4af7-bc78-8e078a3b5a53")
 	)
 	(gr_line
 		(start 147.75 122)
