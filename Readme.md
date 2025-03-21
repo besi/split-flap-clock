@@ -6,6 +6,9 @@ Driver board for four 28BYJ-48 motors.
 
 ![](screenshot.png)
 
+## PCB Version 2.0
+
+![](splitflap.png)
 
 ## Credits
 
