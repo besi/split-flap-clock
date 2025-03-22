@@ -12505,7 +12505,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "28BYJ-48"
 			(at 260.35 172.72 0)
 			(effects
 				(font
@@ -12673,25 +12673,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "434133025816"
-			(at 36.83 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 36.83 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "PTS815SJM250SMTRLFS"
 			(at 36.83 161.29 0)
 			(effects
 				(font
@@ -12769,7 +12751,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "ULN2803A"
 			(at 240.03 116.84 0)
 			(effects
 				(font
@@ -13890,7 +13872,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B3B-PH-K-S "
 			(at 29.21 113.03 0)
 			(effects
 				(font
@@ -13988,25 +13970,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "434133025816"
-			(at 36.83 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 36.83 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "PTS815SJM250SMTRLFS"
 			(at 36.83 151.13 0)
 			(effects
 				(font
@@ -14467,7 +14431,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B3B-PH-K-S "
 			(at 29.21 130.81 0)
 			(effects
 				(font
@@ -14566,7 +14530,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "ULN2803A"
 			(at 240.03 74.93 0)
 			(effects
 				(font
@@ -14955,7 +14919,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B3B-PH-K-S "
 			(at 29.21 77.47 0)
 			(effects
 				(font
@@ -16743,7 +16707,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline_Wide"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92S"
 			(at 224.79 113.03 0)
 			(effects
 				(font
@@ -16788,7 +16752,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "4518-DS18B20-ND"
 			(at 199.39 106.68 0)
 			(effects
 				(font
@@ -17386,6 +17350,15 @@
 			)
 		)
 		(property "Description" "Ultra low capacitance double rail-to-rail ESD protection diode, SOT-143"
+			(at -19.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PRTR5V0U2X"
 			(at -19.05 80.01 0)
 			(effects
 				(font
@@ -18763,25 +18736,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "434133025816"
-			(at 36.83 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 36.83 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "PTS815SJM250SMTRLFS"
 			(at 36.83 171.45 0)
 			(effects
 				(font
@@ -19599,7 +19554,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B3B-PH-K-S "
 			(at 29.21 95.25 0)
 			(effects
 				(font
@@ -22029,7 +21984,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "BM04B-SRSS-TB"
 			(at 196.85 31.75 0)
 			(effects
 				(font
@@ -22682,25 +22637,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "434133025816"
-			(at 36.83 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 36.83 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "PTS815SJM250SMTRLFS"
 			(at 36.83 181.61 0)
 			(effects
 				(font
