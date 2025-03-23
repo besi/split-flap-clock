@@ -10522,7 +10522,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 43.18 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 43.18 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 43.18 74.93 0)
 			(effects
 				(font
@@ -10676,6 +10694,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 243.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 243.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f40dd21-5b43-41f8-9263-f8eeda329f26")
 		)
@@ -10747,7 +10783,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 43.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 43.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 43.18 92.71 0)
 			(effects
 				(font
@@ -10893,7 +10947,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 175.26 0)
 			(effects
 				(font
@@ -10970,7 +11042,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 125.73 0)
 			(effects
 				(font
@@ -11047,7 +11137,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 120.65 0)
 			(effects
 				(font
@@ -11122,6 +11230,24 @@
 		)
 		(property "MPN" "NR6028T330M"
 			(at 123.19 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 123.19 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 123.19 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11540,6 +11666,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 73.66 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 73.66 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1aeb39e7-eb1a-4ae3-b693-711c500751b9")
 		)
@@ -11745,7 +11889,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 123.19 0)
 			(effects
 				(font
@@ -11819,7 +11981,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "2073-DCJ200-10-A-K1-K-ND"
+			(at 43.18 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 43.18 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 43.18 3.81 0)
 			(effects
 				(font
@@ -12174,6 +12354,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at -34.29 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at -34.29 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A9"
 			(uuid "083901e3-ba44-4852-bf1a-2f4407be72a9")
 		)
@@ -12298,6 +12496,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 260.35 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 260.35 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/f3b5a3df-7272-4af1-9be6-6c38555ab067"
@@ -12362,7 +12578,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-JW-102ELF"
+			(at 193.04 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 193.04 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 193.04 139.7 0)
 			(effects
 				(font
@@ -12448,6 +12682,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 36.83 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 36.83 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4ebaaf3-42d9-4235-939d-3a6ed57e5d6f")
 		)
@@ -12518,6 +12770,24 @@
 			)
 		)
 		(property "MPN" "ULN2803A"
+			(at 240.03 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 240.03 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 240.03 116.84 0)
 			(effects
 				(font
@@ -12711,7 +12981,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 151.13 0)
 			(effects
 				(font
@@ -12990,7 +13278,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 228.6 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 228.6 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 228.6 12.7 0)
 			(effects
 				(font
@@ -13077,6 +13383,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 257.81 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 257.81 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c59b7672-ef0c-4514-86af-811859bf0de4")
 		)
@@ -13147,7 +13471,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-5101ELF"
+			(at -1.27 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at -1.27 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at -1.27 22.86 0)
 			(effects
 				(font
@@ -13357,7 +13699,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 256.54 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 256.54 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 256.54 63.5 0)
 			(effects
 				(font
@@ -13445,6 +13805,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 104.14 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 104.14 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "89124d63-86c6-4a74-bad0-9a726a90762b")
 		)
@@ -13513,6 +13891,24 @@
 			)
 		)
 		(property "MPN" "B3B-PH-K-S "
+			(at 29.21 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 29.21 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 29.21 113.03 0)
 			(effects
 				(font
@@ -13593,6 +13989,24 @@
 			)
 		)
 		(property "MPN" "PTS815SJM250SMTRLFS"
+			(at 36.83 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 36.83 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 36.83 151.13 0)
 			(effects
 				(font
@@ -13730,6 +14144,33 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
+			(at 193.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 193.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 193.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "X"
 			(at 193.04 147.32 0)
 			(effects
 				(font
@@ -13884,6 +14325,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 114.3 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f4e378d-7c7e-4697-94e5-26d1e0ee64a5")
 		)
@@ -14026,6 +14485,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 29.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 29.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "12b31f88-e622-45ec-8c55-ccdf2e2af12c")
 		)
@@ -14099,6 +14576,24 @@
 			)
 		)
 		(property "MPN" "ULN2803A"
+			(at 240.03 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 240.03 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 240.03 74.93 0)
 			(effects
 				(font
@@ -14360,7 +14855,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 180.34 0)
 			(effects
 				(font
@@ -14442,6 +14955,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 29.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 29.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d366e87e-befd-49bd-b351-37258a60050d")
 		)
@@ -14513,7 +15044,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 43.18 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 43.18 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 43.18 128.27 0)
 			(effects
 				(font
@@ -14795,6 +15344,24 @@
 			)
 		)
 		(property "MPN" "A768KS227M1VLAE024"
+			(at 129.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 129.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 129.54 35.56 0)
 			(effects
 				(font
@@ -15207,7 +15774,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-1002ELF"
+			(at 234.95 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 234.95 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 234.95 26.67 0)
 			(effects
 				(font
@@ -15287,7 +15872,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 137.16 0)
 			(effects
 				(font
@@ -15364,7 +15967,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 134.62 0)
 			(effects
 				(font
@@ -15506,7 +16127,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "150060RS75000"
+			(at 193.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 193.04 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 193.04 133.35 0)
 			(effects
 				(font
@@ -15586,7 +16225,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 128.27 0)
 			(effects
 				(font
@@ -15862,7 +16519,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-JW-221ELF"
+			(at 228.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 228.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 228.6 31.75 0)
 			(effects
 				(font
@@ -15941,6 +16616,24 @@
 			)
 		)
 		(property "MPN" "865080340001"
+			(at 260.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 260.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 260.35 63.5 0)
 			(effects
 				(font
@@ -16095,6 +16788,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 199.39 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 199.39 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81901929-af3c-4c99-ba45-faf6ef73f1d5")
 		)
@@ -16236,7 +16947,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 148.59 0)
 			(effects
 				(font
@@ -16312,7 +17041,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-1002ELF"
+			(at 82.55 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 82.55 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 82.55 77.47 0)
 			(effects
 				(font
@@ -16392,6 +17139,24 @@
 			)
 		)
 		(property "MPN" "1528-1541-ND"
+			(at 186.69 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 186.69 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 186.69 88.9 0)
 			(effects
 				(font
@@ -16543,7 +17308,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 227.33 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 227.33 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 227.33 41.91 0)
 			(effects
 				(font
@@ -16621,6 +17404,24 @@
 			)
 		)
 		(property "MPN" "PRTR5V0U2X"
+			(at -19.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at -19.05 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at -19.05 80.01 0)
 			(effects
 				(font
@@ -16715,6 +17516,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 243.84 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 243.84 2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "32572bed-2e82-4c17-84f7-454dbd4b86c9")
 		)
@@ -16789,7 +17608,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 153.67 0)
 			(effects
 				(font
@@ -17000,7 +17837,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 168.91 0)
 			(effects
 				(font
@@ -17085,6 +17940,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 41.91 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 41.91 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d98483b-f5fe-427b-aad5-257f1e048d0b")
 		)
@@ -17156,6 +18029,24 @@
 			)
 		)
 		(property "MPN" "LM2596S-5.0"
+			(at 96.52 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 96.52 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 96.52 29.21 0)
 			(effects
 				(font
@@ -17252,6 +18143,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 273.05 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 273.05 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c7560078-ea89-4415-99c6-3662598e2e48")
 		)
@@ -17331,7 +18240,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL21B105KOFNNNG"
+			(at 82.55 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 82.55 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 82.55 87.63 0)
 			(effects
 				(font
@@ -17410,7 +18337,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 114.3 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 114.3 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 114.3 71.12 0)
 			(effects
 				(font
@@ -17565,7 +18510,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 267.97 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 267.97 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 267.97 29.21 0)
 			(effects
 				(font
@@ -17845,6 +18808,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 36.83 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 36.83 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0eef46d6-db45-4ebd-b3cd-f05a64deb2c8")
 		)
@@ -17915,7 +18896,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 254 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 254 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 254 105.41 0)
 			(effects
 				(font
@@ -17995,6 +18994,24 @@
 			)
 		)
 		(property "MPN" "B5B-XH-A"
+			(at 273.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 273.05 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 273.05 88.9 0)
 			(effects
 				(font
@@ -18091,6 +19108,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 273.05 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 273.05 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "391c9190-6a90-4b6d-b61a-edd7029c398d")
 		)
@@ -18179,7 +19214,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 267.97 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 267.97 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 267.97 16.51 0)
 			(effects
 				(font
@@ -18591,6 +19644,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 29.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 29.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5ad2e4c8-8ead-4405-b0e5-c15ee24161ba")
 		)
@@ -18663,7 +19734,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 232.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 232.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 232.41 173.99 0)
 			(effects
 				(font
@@ -18803,7 +19892,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 166.37 0)
 			(effects
 				(font
@@ -19143,7 +20250,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
+			(at 43.18 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 43.18 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 43.18 110.49 0)
 			(effects
 				(font
@@ -19289,6 +20414,24 @@
 			)
 		)
 		(property "MPN" "B5B-XH-A"
+			(at 273.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 273.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 273.05 116.84 0)
 			(effects
 				(font
@@ -19452,6 +20595,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 142.24 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 142.24 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79bcfe08-3edd-4a9f-864d-eb456ff8fa30")
 		)
@@ -19522,7 +20683,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-5101ELF"
+			(at -11.43 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at -11.43 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at -11.43 22.86 0)
 			(effects
 				(font
@@ -19669,7 +20848,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 182.88 0)
 			(effects
 				(font
@@ -19746,7 +20943,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 156.21 0)
 			(effects
 				(font
@@ -19823,7 +21038,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 142.24 0)
 			(effects
 				(font
@@ -19900,7 +21133,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 185.42 0)
 			(effects
 				(font
@@ -19985,7 +21236,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 267.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 267.97 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 267.97 35.56 0)
 			(effects
 				(font
@@ -20058,6 +21327,24 @@
 		)
 		(property "MPN" "TYS5040220M-10"
 			(at 135.89 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 135.89 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 135.89 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20208,6 +21495,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 33.02 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 33.02 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d2b05152-12fd-4f5b-8aaa-e75a5988d2f1")
 		)
@@ -20281,7 +21586,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 195.58 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 195.58 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 195.58 52.07 0)
 			(effects
 				(font
@@ -20441,7 +21764,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 267.97 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 267.97 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 267.97 22.86 0)
 			(effects
 				(font
@@ -20513,6 +21854,24 @@
 			)
 		)
 		(property "MPN" "CP-060A-ND"
+			(at 44.45 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 44.45 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 44.45 29.21 0)
 			(effects
 				(font
@@ -20595,7 +21954,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 161.29 0)
 			(effects
 				(font
@@ -20671,6 +22048,24 @@
 			)
 		)
 		(property "MPN" "BM04B-SRSS-TB"
+			(at 196.85 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 196.85 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 196.85 31.75 0)
 			(effects
 				(font
@@ -20823,6 +22218,24 @@
 			)
 		)
 		(property "MPN" "ESP32-S3-WROOM-1-N4 "
+			(at 120.65 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 120.65 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 120.65 124.46 0)
 			(effects
 				(font
@@ -21027,6 +22440,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 24.13 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 24.13 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1ee860d9-fbf7-446d-ae38-32e2f3b00ace")
 		)
@@ -21097,7 +22528,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-1002ELF"
+			(at 234.95 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 234.95 -2.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 234.95 -2.54 0)
 			(effects
 				(font
@@ -21177,7 +22626,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 139.7 0)
 			(effects
 				(font
@@ -21260,6 +22727,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at 36.83 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at 36.83 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d21a4e1b-0eb7-4b44-ae8a-b903073755ad")
 		)
@@ -21331,7 +22816,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 163.83 0)
 			(effects
 				(font
@@ -21414,6 +22917,24 @@
 				(hide yes)
 			)
 		)
+		(property "Label1" ""
+			(at -11.43 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
+			(at -11.43 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ac1c8e60-127f-4a67-9450-dcf8bddaa40a")
 		)
@@ -21485,7 +23006,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 71.12 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 71.12 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 71.12 177.8 0)
 			(effects
 				(font
@@ -21559,7 +23098,25 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label1" ""
+			(at 181.61 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Label2" ""
 			(at 181.61 129.54 0)
 			(effects
 				(font
