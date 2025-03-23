@@ -934,7 +934,7 @@
 				)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL21B105KOFNNNG"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1188,7 +1188,7 @@
 				)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1748,7 +1748,7 @@
 				)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CP-060A-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2484,7 +2484,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3168,7 +3168,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3333,7 +3333,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3486,7 +3486,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -3610,7 +3610,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -4469,7 +4469,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5256,7 +5256,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5622,7 +5622,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5775,7 +5775,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6418,7 +6418,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6580,7 +6580,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "2073-DCJ200-10-A-K1-K-ND"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8661,7 +8661,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9280,35 +9280,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Label1" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "a87d4d23-3311-450f-8ad5-1da3d4742d9e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label2" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "64e52c8a-2fec-4155-8789-4de576a02ea0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MPN" " "
+		(property "MPN" "USB4105-GF-A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9708,40 +9680,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "ULN2803A"
+		(property "MPN" "4518-ULN2803ATR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "940135b2-745c-4698-8875-cdb71e6ace4e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label1" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "a212dc72-fe39-4143-bd51-82ccbb1dbd42")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label2" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "cd05d704-a5bc-438e-baa9-b1928e6c286e")
 			(effects
 				(font
 					(size 1 1)
@@ -10225,7 +10169,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-1002ELF"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10516,7 +10460,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10669,7 +10613,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10793,35 +10737,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Label1" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0db0b4cb-a3cd-470c-8a9f-3047a4b17442")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label2" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0270c327-7295-4361-a8f0-4ffa5e6a6454")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MPN" " "
+		(property "MPN" "MF-NSMF110/16X-2"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11084,7 +11000,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11208,7 +11124,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11976,7 +11892,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-5101ELF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12555,7 +12471,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12708,7 +12624,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12832,7 +12748,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B5B-XH-A"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13400,7 +13316,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13729,7 +13645,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13882,7 +13798,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14034,7 +13950,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "150060RS75000"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14290,7 +14206,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-1002ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15613,7 +15529,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16769,7 +16685,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B5B-XH-A"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17309,7 +17225,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17568,40 +17484,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "LM2596S-5.0"
+		(property "MPN" "5399-LM2596S-5.0CT-ND"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b9548789-2cc7-446f-b9fd-854dd06623cd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label1" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "6403ac48-8f8f-4c95-9386-ff7b317adbe5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label2" ""
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "670d7d91-7b16-4198-bd52-5064d07db667")
 			(effects
 				(font
 					(size 1 1)
@@ -18134,7 +18022,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18953,12 +18841,26 @@
 				(justify mirror)
 			)
 		)
+		(property "MPN" "X"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "663425ad-23be-4c76-9c22-3030beb16a8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/4a0ac52a-3ec9-4966-8ded-883b19969495")
 		(sheetname "Root")
 		(sheetfile "splitflap.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files dnp)
 		(net_tie_pad_groups "1, 2")
 		(fp_poly
 			(pts
@@ -20376,7 +20278,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20785,7 +20687,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-1002ELF"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21047,40 +20949,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "1N5822"
+		(property "MPN" "497-11370-1-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6890bd2e-abe8-4e7f-979d-1dd7e832251d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label1" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "1ebf2bcc-7bb8-4f83-a880-82f8d5a1f62b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label2" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "a92b2b49-7332-434b-a623-605a4824b9ac")
 			(effects
 				(font
 					(size 1 1)
@@ -21457,7 +21331,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22241,7 +22115,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22379,7 +22253,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23163,7 +23037,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-FX-5101ELF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23426,7 +23300,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23550,7 +23424,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B5B-XH-A"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24119,7 +23993,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24257,7 +24131,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24419,7 +24293,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24710,7 +24584,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24863,7 +24737,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24984,40 +24858,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "ULN2803A"
+		(property "MPN" "4518-ULN2803ATR-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b8bd8069-0f08-4b71-981a-78d538696027")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label1" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "12936907-8c92-437f-9da5-d9ceae6cbf32")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Label2" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "f8199781-9c07-4c6c-ab45-605538f39588")
 			(effects
 				(font
 					(size 1 1)
@@ -25501,7 +25347,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CL10E104KC8VPNC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25791,7 +25637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-JW-102ELF"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26054,7 +25900,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27268,7 +27114,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "X"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27392,7 +27238,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "B5B-XH-A"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27932,7 +27778,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" " "
+		(property "MPN" "CR0603-JW-221ELF"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")

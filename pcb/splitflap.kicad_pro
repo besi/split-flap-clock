@@ -574,7 +574,7 @@
       "exclude_dnp": false,
       "fields_ordered": [
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
           "show": true
@@ -625,18 +625,6 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Label1",
-          "name": "Label1",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Label2",
-          "name": "Label2",
           "show": false
         },
         {
