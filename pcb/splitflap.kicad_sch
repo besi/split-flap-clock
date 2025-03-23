@@ -16629,7 +16629,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PRTR5V0U2X"
+		(property "MPN" "PRTR5V0U2X,215"
 			(at -19.05 80.01 0)
 			(effects
 				(font

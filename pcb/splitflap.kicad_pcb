@@ -22415,7 +22415,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "PRTR5V0U2X"
+		(property "MPN" "PRTR5V0U2X,215"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
