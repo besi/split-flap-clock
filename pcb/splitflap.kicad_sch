@@ -10531,24 +10531,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 43.18 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 43.18 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7028d98d-d73a-4dd6-9cd0-7206fee2ad6a")
 		)
@@ -10694,24 +10676,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 243.84 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 243.84 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "9f40dd21-5b43-41f8-9263-f8eeda329f26")
 		)
@@ -10784,24 +10748,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 43.18 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 43.18 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 43.18 92.71 0)
 			(effects
 				(font
@@ -10947,24 +10893,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 175.26 0)
 			(effects
@@ -11034,24 +10962,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 125.73 0)
 			(effects
 				(font
@@ -11137,24 +11047,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 120.65 0)
 			(effects
@@ -11230,24 +11122,6 @@
 		)
 		(property "MPN" "NR6028T330M"
 			(at 123.19 31.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 123.19 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 123.19 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11666,24 +11540,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 73.66 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 73.66 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "1aeb39e7-eb1a-4ae3-b693-711c500751b9")
 		)
@@ -11889,24 +11745,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 123.19 0)
 			(effects
@@ -11982,24 +11820,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 43.18 3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 43.18 3.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 43.18 3.81 0)
 			(effects
 				(font
@@ -12345,25 +12165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at -34.29 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at -34.29 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" " "
+		(property "MPN" "USB4105-GF-A"
 			(at -34.29 27.94 0)
 			(effects
 				(font
@@ -12487,24 +12289,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 260.35 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 260.35 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "28BYJ-48"
 			(at 260.35 172.72 0)
 			(effects
@@ -12570,24 +12354,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 193.04 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 193.04 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 193.04 139.7 0)
 			(effects
 				(font
@@ -12752,24 +12518,6 @@
 			)
 		)
 		(property "MPN" "ULN2803A"
-			(at 240.03 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 240.03 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 240.03 116.84 0)
 			(effects
 				(font
@@ -12955,24 +12703,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 151.13 0)
 			(effects
 				(font
@@ -13269,24 +12999,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 228.6 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 228.6 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "528cd6b3-d94b-4149-9c71-4918750234f0")
 		)
@@ -13365,24 +13077,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 257.81 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 257.81 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "c59b7672-ef0c-4514-86af-811859bf0de4")
 		)
@@ -13445,24 +13139,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at -1.27 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at -1.27 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at -1.27 22.86 0)
 			(effects
 				(font
@@ -13690,24 +13366,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 256.54 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 256.54 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "453020a1-70fc-4ce6-a924-137505704c18")
 		)
@@ -13787,24 +13445,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 104.14 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 104.14 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "89124d63-86c6-4a74-bad0-9a726a90762b")
 		)
@@ -13873,24 +13513,6 @@
 			)
 		)
 		(property "MPN" "B3B-PH-K-S "
-			(at 29.21 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 29.21 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 29.21 113.03 0)
 			(effects
 				(font
@@ -14068,7 +13690,7 @@
 		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4a0ac52a-3ec9-4966-8ded-883b19969495")
 		(property "Reference" "JP2"
@@ -14108,24 +13730,6 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
-			(at 193.04 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 193.04 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 193.04 147.32 0)
 			(effects
 				(font
@@ -14280,24 +13884,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 114.3 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 114.3 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "3f4e378d-7c7e-4697-94e5-26d1e0ee64a5")
 		)
@@ -14440,24 +14026,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 29.21 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 29.21 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "3"
 			(uuid "12b31f88-e622-45ec-8c55-ccdf2e2af12c")
 		)
@@ -14531,24 +14099,6 @@
 			)
 		)
 		(property "MPN" "ULN2803A"
-			(at 240.03 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 240.03 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 240.03 74.93 0)
 			(effects
 				(font
@@ -14810,24 +14360,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 180.34 0)
 			(effects
@@ -14893,24 +14425,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 29.21 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 29.21 77.47 0)
 			(effects
 				(font
@@ -15000,24 +14514,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 43.18 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 43.18 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 43.18 128.27 0)
 			(effects
 				(font
@@ -15299,24 +14795,6 @@
 			)
 		)
 		(property "MPN" "A768KS227M1VLAE024"
-			(at 129.54 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 129.54 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 129.54 35.56 0)
 			(effects
 				(font
@@ -15738,24 +15216,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 234.95 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 234.95 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "735157d8-4a7c-45af-bc44-ce2480bc7a14")
 		)
@@ -15819,24 +15279,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 137.16 0)
 			(effects
 				(font
@@ -15914,24 +15356,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 134.62 0)
 			(effects
 				(font
@@ -16082,24 +15506,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 193.04 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 193.04 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 193.04 133.35 0)
 			(effects
@@ -16172,24 +15578,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 128.27 0)
 			(effects
 				(font
@@ -16483,24 +15871,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 228.6 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 228.6 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "cac25800-78a3-4da4-8803-9190dd646e7b")
 		)
@@ -16571,24 +15941,6 @@
 			)
 		)
 		(property "MPN" "865080340001"
-			(at 260.35 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 260.35 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 260.35 63.5 0)
 			(effects
 				(font
@@ -16726,24 +16078,6 @@
 			)
 		)
 		(property "Description" "Programmable Resolution 1-Wire Digital Thermometer TO-92"
-			(at 199.39 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 199.39 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 199.39 106.68 0)
 			(effects
 				(font
@@ -16902,24 +16236,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 148.59 0)
 			(effects
@@ -17005,24 +16321,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 82.55 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 82.55 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7dedccbd-d033-42c6-bdd4-329f1074a38d")
 		)
@@ -17094,24 +16392,6 @@
 			)
 		)
 		(property "MPN" "1528-1541-ND"
-			(at 186.69 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 186.69 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 186.69 88.9 0)
 			(effects
 				(font
@@ -17264,24 +16544,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 227.33 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 227.33 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 227.33 41.91 0)
 			(effects
 				(font
@@ -17453,24 +16715,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 243.84 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 243.84 2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "32572bed-2e82-4c17-84f7-454dbd4b86c9")
 		)
@@ -17537,24 +16781,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 153.67 0)
 			(effects
 				(font
@@ -17774,24 +17000,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 168.91 0)
 			(effects
@@ -17869,24 +17077,6 @@
 			)
 		)
 		(property "MPN" "APXG160ARA101ME61G"
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 41.91 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 41.91 48.26 0)
 			(effects
 				(font
@@ -17974,24 +17164,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 96.52 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 96.52 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "3"
 			(uuid "29261fbe-7eca-4d22-9a8b-caf785c73f43")
 		)
@@ -18071,25 +17243,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
-			(at 273.05 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 273.05 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "B5B-XH-A"
 			(at 273.05 74.93 0)
 			(effects
 				(font
@@ -18186,24 +17340,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 82.55 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 82.55 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5721d866-95c4-4f9d-8cc9-c596ae25c93d")
 		)
@@ -18275,24 +17411,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 114.3 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 114.3 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 114.3 71.12 0)
 			(effects
 				(font
@@ -18448,24 +17566,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 267.97 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 267.97 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 267.97 29.21 0)
 			(effects
 				(font
@@ -18824,24 +17924,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 254 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 254 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e068d5d2-9f2d-4265-97af-a92440552921")
 		)
@@ -18912,25 +17994,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
-			(at 273.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 273.05 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "B5B-XH-A"
 			(at 273.05 88.9 0)
 			(effects
 				(font
@@ -19018,25 +18082,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
-			(at 273.05 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 273.05 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "B5B-XH-A"
 			(at 273.05 133.35 0)
 			(effects
 				(font
@@ -19134,24 +18180,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 267.97 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 267.97 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 267.97 16.51 0)
 			(effects
 				(font
@@ -19563,24 +18591,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 29.21 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 29.21 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "3"
 			(uuid "5ad2e4c8-8ead-4405-b0e5-c15ee24161ba")
 		)
@@ -19654,24 +18664,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 232.41 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 232.41 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 232.41 173.99 0)
 			(effects
 				(font
@@ -19803,24 +18795,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 166.37 0)
 			(effects
 				(font
@@ -20178,24 +19152,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 43.18 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 43.18 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "4baf9153-6050-4c44-abaf-a247dd3e71e2")
 		)
@@ -20332,25 +19288,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
-			(at 273.05 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 273.05 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "B5B-XH-A"
 			(at 273.05 116.84 0)
 			(effects
 				(font
@@ -20514,24 +19452,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 142.24 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 142.24 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "79bcfe08-3edd-4a9f-864d-eb456ff8fa30")
 		)
@@ -20594,24 +19514,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at -11.43 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at -11.43 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at -11.43 22.86 0)
 			(effects
 				(font
@@ -20767,24 +19669,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 182.88 0)
 			(effects
@@ -20854,24 +19738,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 156.21 0)
 			(effects
 				(font
@@ -20957,24 +19823,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 142.24 0)
 			(effects
@@ -21044,24 +19892,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 185.42 0)
 			(effects
 				(font
@@ -21164,24 +19994,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 267.97 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 267.97 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "splitflap"
 				(path "/f3b5a3df-7272-4af1-9be6-6c38555ab067"
@@ -21246,24 +20058,6 @@
 		)
 		(property "MPN" "TYS5040220M-10"
 			(at 135.89 31.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 135.89 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 135.89 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21414,24 +20208,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 33.02 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 33.02 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "3"
 			(uuid "d2b05152-12fd-4f5b-8aaa-e75a5988d2f1")
 		)
@@ -21506,24 +20282,6 @@
 			)
 		)
 		(property "MPN" " "
-			(at 195.58 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 195.58 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 195.58 52.07 0)
 			(effects
 				(font
@@ -21692,24 +20450,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 267.97 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 267.97 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(instances
 			(project "splitflap"
 				(path "/f3b5a3df-7272-4af1-9be6-6c38555ab067"
@@ -21772,25 +20512,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" " "
-			(at 44.45 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 44.45 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
+		(property "MPN" "CP-060A-ND"
 			(at 44.45 29.21 0)
 			(effects
 				(font
@@ -21873,24 +20595,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 161.29 0)
 			(effects
@@ -21958,24 +20662,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 196.85 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 196.85 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 196.85 31.75 0)
 			(effects
 				(font
@@ -22137,24 +20823,6 @@
 			)
 		)
 		(property "MPN" "ESP32-S3-WROOM-1-N4 "
-			(at 120.65 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 120.65 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 120.65 124.46 0)
 			(effects
 				(font
@@ -22359,24 +21027,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 24.13 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 24.13 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "1ee860d9-fbf7-446d-ae38-32e2f3b00ace")
 		)
@@ -22456,24 +21106,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 234.95 -2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 234.95 -2.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2b1201ff-5304-496b-8ea8-e3902c36d450")
 		)
@@ -22537,24 +21169,6 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 71.12 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 71.12 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
 			(at 71.12 139.7 0)
 			(effects
 				(font
@@ -22717,24 +21331,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 163.83 0)
 			(effects
@@ -22809,25 +21405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at -11.43 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at -11.43 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" " "
+		(property "MPN" "MF-NSMF110/16X-2"
 			(at -11.43 12.7 0)
 			(effects
 				(font
@@ -22907,24 +21485,6 @@
 				(hide yes)
 			)
 		)
-		(property "Label1" ""
-			(at 71.12 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 71.12 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" " "
 			(at 71.12 177.8 0)
 			(effects
@@ -22992,24 +21552,6 @@
 		)
 		(property "Description" ""
 			(at 181.7488 130.358 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label1" ""
-			(at 181.61 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Label2" ""
-			(at 181.61 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
