@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "28byj")(type "KiCad")(uri "${KIPRJMOD}/lib/28byj/28byj.kicad_sym")(options "")(descr ""))
   (lib (name "dcf77")(type "KiCad")(uri "${KIPRJMOD}/lib/dcf77/dcf77.kicad_sym")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/lib/logo.kicad_sym")(options "")(descr ""))
 )
