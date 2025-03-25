@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "SplitFlap Driver")
-		(date "2025-03-24")
+		(date "2025-03-25")
 		(rev "v2.0")
 		(company "Besmer Labs")
 	)
@@ -14351,7 +14351,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "497-11370-1-ND"
+		(property "MPN" "1N5822"
 			(at 93.98 40.64 0)
 			(effects
 				(font

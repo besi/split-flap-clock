@@ -2013,7 +2013,7 @@
 				)
 			)
 		)
-		(property "MPN" "CP-060A-ND"
+		(property "MPN" "PJ-060A"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9853,8 +9853,20 @@
 			(uuid "6b47ce5b-51c4-46a1-8cde-ad9a25f3aa30")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_APV_ANR5045.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/lib/TYS5040220M-10.step"
+			(offset
+				(xyz 0 3 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -29708,7 +29720,7 @@
 		(layer "F.Fab")
 		(uuid "f163c552-62d9-4bb0-a318-03752fe98ff6")
 	)
-	(gr_text "v2.0 @abcdef\nDesigned in Switzerland \nBesmer Labs 24.03.2025\ngithub.com/besi/split-flap-clock"
+	(gr_text "v2.0 @3d2c2404\nDesigned in Switzerland \nBesmer Labs 25.03.2025\ngithub.com/besi/split-flap-clock"
 		(at 139 81.8 90)
 		(layer "B.SilkS")
 		(uuid "9b92ed13-a080-4d39-9698-15c8e6459de2")
