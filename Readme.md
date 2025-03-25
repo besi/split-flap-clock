@@ -10,7 +10,7 @@ Driver board for four 28BYJ-48 stepper motors.
 ## Version 1.0
 
 ![](assets/v1-prototype.png)
-
+![](assets/v1-splitflap-pcb.png)
 
 ## Credits
 
