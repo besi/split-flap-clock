@@ -19,6 +19,6 @@ Driver board for four 28BYJ-48 stepper motors.
 
 ### Manufacturing
 
-[PCBWay](https://pcbway.com/g/2jc702) kindly offered to sponsor the manufacturing of the second iteration of this pcb.
+[PCBWay](https://pcbway.com/g/2jc702) kindly offered to sponsor the manufacturing and assembly of the second iteration of this pcb.
 
 ![PCBWay](assets/pcbway.png) 
