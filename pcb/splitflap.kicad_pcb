@@ -10530,7 +10530,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+		(property "Value" "USB-C Plug"
 			(at 0 -5 -90)
 			(unlocked yes)
 			(layer "B.Fab")
