@@ -5718,6 +5718,18 @@
 			(uuid "0426c685-2bbb-4e1c-adde-5c25070b8109")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_APV_ANR6028.wrl"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/lib/NR6028T330M.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9866,7 +9878,7 @@
 		)
 		(model "${KIPRJMOD}/lib/TYS5040220M-10.step"
 			(offset
-				(xyz 0 3 0)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
