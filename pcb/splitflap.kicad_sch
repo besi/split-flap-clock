@@ -9550,8 +9550,8 @@
 		)
 		(uuid "0a25f1b8-881f-47a6-b9f9-90ac0665bbb2")
 	)
-	(label "HALL_Internal"
-		(at 217.17 31.75 180)
+	(label "HALL_INTERNAL"
+		(at 224.79 31.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
