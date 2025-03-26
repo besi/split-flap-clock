@@ -2,6 +2,7 @@
 
 Driver board for four 28BYJ-48 stepper motors.
 
+
 ## Pinout
 
 Motors: 
@@ -23,14 +24,18 @@ Other GPIOs
 | Mode           | 0   |
 | Neopixel       | 15  |
 | Temperature    | 5   |
+
+
 ## Version 2.0
 
 ![](assets/v2-splitflap-pcb.png)
+
 
 ## Version 1.0
 
 ![](assets/v1-prototype.png)
 ![](assets/v1-splitflap-pcb.png)
+
 
 ## Credits
 
