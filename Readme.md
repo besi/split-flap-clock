@@ -2,7 +2,27 @@
 
 Driver board for four 28BYJ-48 stepper motors.
 
+## Pinout
 
+Motors: 
+
+| Pins        | 1  | 2  | 3  | 4  | Hall  |
+|-------------|----|----|----|----|-------|
+| **Motor A** | 10 | 9  | 3  | 8  | 18 (7)|
+| **Motor B** | 13 | 14 | 21 | 11 | 12    |
+| **Motor C** | 40 | 39 | 38 | 6  | 47    |
+| **Motor D** | 1  | 2  | 42 | 41 | 48    |
+
+Other GPIOs
+
+| Function       | Pin |
+|----------------|-----|
+| DCF-77         | 4   |
+| SDA / Switch B | 16  |
+| SCL / Switch A | 17  |
+| Mode           | 0   |
+| Neopixel       | 15  |
+| Temperature    | 5   |
 ## Version 2.0
 
 ![](assets/v2-splitflap-pcb.png)
