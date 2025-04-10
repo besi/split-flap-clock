@@ -9,3 +9,4 @@ fabrication-toolkit*
 *.zip
 *.lck
 *.bak
+/pcb/plot
