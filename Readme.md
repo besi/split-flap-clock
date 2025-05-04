@@ -1,7 +1,37 @@
 ![](assets/logo.png)
 
-Driver board for four 28BYJ-48 stepper motors.
+Split Flap driver board for four 28BYJ-48 stepper motors.
 
+
+## Bill of materials
+
+What is needed for one digit.
+
+| Count | Item                 | Description                       |
+|-------|----------------------|-----------------------------------|
+| 1     | PCB v2.0             |                                   |
+| 1     | Supporting Plate     | Same shape and holes like the PCB |
+| 1     | Spacer 2mm           | Spacer for cogwheels              |
+| 1     | Hall Sensor          | For the unpopulated PCBs only     |
+| 1     | 10k Resistor 0306    | For the unpopulated PCBS          |
+| 1     | Cog Stepper          | 3-D Print / Laser cut             |
+| 1     | Cog M3               | 3-D Print / Laser cut             |
+| 1     | Cog M3 Nut           | 3-D Print / Laser cut             |
+| 1     | Spool                | 3-D Print                         |
+| 1     | Spool lid            | 3-D Print                         |
+| 1     | Magnet 2x1mm         | For spool                         |
+| 1     | Motor 28BYJ-48       | 5V Version                        |
+| 1     | Motor gasket         | Laser cut                         |
+| 12    | Flaps                | Laser cut Flaps                   |
+| 1     | 3 Pos JST 2mm Socket | Hall Sensor Connection            |
+| 1     | 3 Pos JST 2mm Cable  | Hall Sensor Connection            |
+| 4     | M3 Nuts              | 2 Cogs, 2 Motor                   |
+| 5     | M3x8mm Bolt          | 2 Cogs,2 Motor, Spindle,          |
+| 3     | M3x5mm Bolt          | 3 Spindle                         |
+| 4     | M3 Standoffs 50mm    | Male-Female 6mm thread            |
+| 4     | M2.5 Screws          | For Standoffs                     |
+
+Please note that one assembled PCB can drive four digits. Those "passive" digits only need to have the hall sensor soldered onto it.
 
 ## Pinout
 
@@ -25,8 +55,7 @@ Other GPIOs
 | Neopixel       | 15  |
 | Temperature    | 5   |
 
-
-## Version 2.0
+## The PCB
 
 ![](assets/v2-splitflap-pcb.png)
 
