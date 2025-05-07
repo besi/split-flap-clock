@@ -30,6 +30,9 @@ What is needed for one digit.
 | 3     | M3x5mm Bolt          | 3 Spindle                         |
 | 4     | M3 Standoffs 50mm    | Male-Female 6mm thread            |
 | 4     | M2.5 Screws          | For Standoffs                     |
+| 1     | Washer 5mm 1mm thick | For Driver cogwheel               |
+| 2     | Washer 3mm 1mm thick | For cogwheels                     |
+
 
 Please note that one assembled PCB can drive four digits. Those "passive" digits only need to have the hall sensor soldered onto it.
 
