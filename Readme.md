@@ -32,6 +32,7 @@ What is needed for one digit.
 | 4     | M2.5 Screws          | For Standoffs                     |
 | 1     | Washer 5mm 1mm thick | For Driver cogwheel               |
 | 2     | Washer 3mm 1mm thick | For cogwheels                     |
+| 1     | Zip tie for motor    |                                   |
 
 
 Please note that one assembled PCB can drive four digits. Those "passive" digits only need to have the hall sensor soldered onto it.
