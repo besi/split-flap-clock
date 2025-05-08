@@ -17,7 +17,7 @@ What is needed for one digit.
 | 1     | Cog Stepper          | 3-D Print / Laser cut             |
 | 1     | Cog M3               | 3-D Print / Laser cut             |
 | 1     | Cog M3 Nut           | 3-D Print / Laser cut             |
-| 1     | Spool                | 3-D Print                         |
+| 1     | Spool                | 3-D Print with M3 heat insert     |
 | 1     | Spool lid            | 3-D Print                         |
 | 1     | Magnet 2x1mm         | For spool                         |
 | 1     | Motor 28BYJ-48       | 5V Version                        |
