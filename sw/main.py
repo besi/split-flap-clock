@@ -10,7 +10,7 @@ from machine import Pin
 
 d = 0.001
 
-(year,month,mday,h,m,s,weekday,yearday) = utime.localtime()
+(year,month,mday,h,m,s,weekday,yearday) = time.localtime()
 
 c1 = 40
 s1 = Stepper(HALF_STEP, Pin(10, Pin.OUT), Pin(9, Pin.OUT), Pin(3, Pin.OUT), Pin(8, Pin.OUT), d)
