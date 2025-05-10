@@ -14,11 +14,11 @@ What is needed for one digit.
 | 1     | Spacer 2mm           | Spacer for cogwheels              |
 | 1     | Hall Sensor          | For the unpopulated PCBs only     |
 | 1     | 10k Resistor 0306    | For the unpopulated PCBS          |
+| 1     | Spool                | 3-D Print with M3 heat insert     |
+| 1     | Spool lid            | 3-D Print                         |
 | 1     | Cog Stepper          | 3-D Print / Laser cut             |
 | 1     | Cog M3               | 3-D Print / Laser cut             |
 | 1     | Cog M3 Nut           | 3-D Print / Laser cut             |
-| 1     | Spool                | 3-D Print with M3 heat insert     |
-| 1     | Spool lid            | 3-D Print                         |
 | 1     | Magnet 2x1mm         | For spool                         |
 | 1     | Motor 28BYJ-48       | 5V Version                        |
 | 1     | Motor gasket         | Laser cut                         |
@@ -34,6 +34,9 @@ What is needed for one digit.
 | 2     | Washer 3mm 1mm thick | For cogwheels                     |
 | 1     | Zip tie for motor    |                                   |
 
+The driving cog wheel is assembled as follows:
+
+    M3x16 + 4 washers + m3-nut-cog + 1 washer + nut
 
 Please note that one assembled PCB can drive four digits. Those "passive" digits only need to have the hall sensor soldered onto it.
 
