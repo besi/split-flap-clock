@@ -13,8 +13,8 @@ d = 0.001
 (year,month,mday,h,m,s,weekday,yearday) = utime.localtime()
 
 c1 = 40
-s1 = Stepper(HALF_STEP, Pin(23, Pin.OUT), Pin(22, Pin.OUT), Pin(21, Pin.OUT), Pin(19, Pin.OUT), d)
-h1 = Pin(36, Pin.IN)
+s1 = Stepper(HALF_STEP, Pin(10, Pin.OUT), Pin(9, Pin.OUT), Pin(3, Pin.OUT), Pin(8, Pin.OUT), d)
+h1 = Pin(18, Pin.IN)
 d1 = Digit(s1, h1, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], c1, 1, label='Weekdays')
 d1.calibrate()
 d1.show(weekday)
