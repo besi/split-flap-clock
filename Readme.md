@@ -12,7 +12,7 @@ What is needed for one digit.
 | 1     | PCB v2.0             |                                   |
 | 1     | Supporting Plate     | Same shape and holes like the PCB |
 | 1     | Spacer 2mm           | Spacer for cogwheels              |
-| 1     | Hall Sensor          | For the unpopulated PCBs only     |
+| 1     | Hall Sensor AH1815-W7| For the unpopulated PCBs only     |
 | 1     | 10k Resistor 0306    | For the unpopulated PCBS          |
 | 1     | Spool                | 3-D Print with M3 heat insert     |
 | 1     | Spool lid            | 3-D Print                         |
