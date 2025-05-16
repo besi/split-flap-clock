@@ -36,7 +36,7 @@ What is needed for one digit.
 
 The driving cog wheel is assembled as follows:
 
-    M3x16 + 4 washers + m3-nut-cog + 1 washer + nut
+    M3x16 + 5 washers + m3-nut-cog + 3 washers
 
 Please note that one assembled PCB can drive four digits. Those "passive" digits only need to have the hall sensor soldered onto it.
 
