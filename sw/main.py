@@ -58,7 +58,7 @@ np = neopixel.NeoPixel(machine.Pin(13),2)
 #np.write()
 
 def showTime():
-    (year,month,mday,h,m,s,weekday,yearday) = utime.localtime()
+    (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
     d1.show(weekday)
     d2.show(int(mday/10))
     d3.show(mday%10)
