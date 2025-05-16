@@ -73,6 +73,16 @@ Other GPIOs
 ![](assets/v1-splitflap-pcb.png)
 
 
+## Flashing the PCB
+
+    cd ~/Downloads
+    IMAGE=ESP32_GENERIC_S3-FLASH_4M-20250415-v1.25.0.bin
+    wget https://micropython.org/resources/firmware/$IMAGE -nc
+    PORT=/dev/cu.usbmodem14401
+    esptool.py --port $PORT erase_flash
+    esptool.py --port $PORT --baud 460800 write_flash --flash_size=detect 0 $IMAGE --flash_mode=dout
+
+
 ## Credits
 
 ### Manufacturing
