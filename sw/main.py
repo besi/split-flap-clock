@@ -20,12 +20,12 @@ d1 = Digit(s1, h1, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c1, 1, label='Weekday
 c2 = -10
 s2 = Stepper(HALF_STEP, Pin(13, Pin.OUT), Pin(14, Pin.OUT), Pin(21, Pin.OUT), Pin(11, Pin.OUT), d)
 h2 = Pin(12,Pin.IN)
-d2 = Digit(s2, h2, [0,1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11], c2, 1, label='Days10')
+d2 = Digit(s2, h2, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c2, 1, label='Days10')
 
-c3 = -13
+c3 = -15
 s3 = Stepper(HALF_STEP, Pin(40, Pin.OUT), Pin(39, Pin.OUT), Pin(38, Pin.OUT), Pin(6, Pin.OUT), d)
 h3 = Pin(47, Pin.IN)
-d3 = Digit(s3, h3, [1, 2, 3, 4, 5, 6, 7, 8, 9, 0], c3, 1, label='Days')
+d3 = Digit(s3, h3, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c3, 1, label='Days')
 
 c4 = -10
 s4 = Stepper(HALF_STEP, Pin(1, Pin.OUT), Pin(2, Pin.OUT), Pin(42, Pin.OUT), Pin(41, Pin.OUT), d)
