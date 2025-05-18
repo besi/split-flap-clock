@@ -51,14 +51,14 @@ d4.show(month)
 
 # Buttons
 mode = Pin(0, Pin.IN)
-button_a = Pin(14, Pin.IN)
-button_b = Pin(12, Pin.IN)
+button_a = Pin(17, Pin.IN)
+button_b = Pin(16, Pin.IN)
 buttons = [mode, button_a, button_b]
 
 # I2C
 from machine import Pin, SoftI2C
-scl = Pin(14, Pin.IN, Pin.PULL_UP)
-sda = Pin(12, Pin.IN, Pin.PULL_UP)
+scl = Pin(17, Pin.IN, Pin.PULL_UP)
+sda = Pin(16, Pin.IN, Pin.PULL_UP)
 i2c = SoftI2C(scl,sda)
 
 np = neopixel.NeoPixel(machine.Pin(13),2)
