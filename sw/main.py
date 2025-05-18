@@ -61,8 +61,7 @@ scl = Pin(14, Pin.IN, Pin.PULL_UP)
 sda = Pin(12, Pin.IN, Pin.PULL_UP)
 i2c = SoftI2C(scl,sda)
 
-# Neopixel
-np = neopixel.NeoPixel(machine.Pin(15),1)
+np = neopixel.NeoPixel(machine.Pin(13),2)
 #np.fill((1,1,1))
 #np.write()
 
@@ -74,7 +73,6 @@ def showTime():
     d4.show(month)
 
 while True:
-    
     showTime()
     time.sleep(60)
     
