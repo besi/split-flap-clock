@@ -36,7 +36,11 @@ d1.calibrate()
 d1.show(weekday)
 
 d2.calibrate()
-d2.show(int(mday/10))
+tens = int(mday/10)
+if tens == 0: 
+    d2.show(11) # blank
+else:
+    d2.show(tens)
 
 d3.calibrate()
 d3.show(mday%10)
