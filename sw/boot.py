@@ -5,6 +5,7 @@ import machine
 import utime
 import time
 import ntptime
+import network
 
 skip_wifi = False
 ssid = ""
@@ -60,6 +61,7 @@ wlan.active(True)
 # print('connecting to last AP', end='')
 # print(try_connection(3))
 if not wlan.isconnected() and not skip_wifi:
+    network.WLAN(network.STA_IF).config(txpower=5)
     ap_list = wlan.scan()
     ## sort APs by signal strength
     ap_list.sort(key=lambda ap: ap[3], reverse=True)
