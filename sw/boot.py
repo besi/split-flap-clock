@@ -66,8 +66,7 @@ if not wlan.isconnected() and not skip_wifi:
     ## sort APs by signal strength
     ap_list.sort(key=lambda ap: ap[3], reverse=True)
     ## filter only trusted APs
-    ap_list = list(filter(lambda ap: ap[0].decode('UTF-8') in
-              secrets.wifi.aps.keys(), ap_list))
+    ap_list = list(filter(lambda ap: ap[0].decode('UTF-8') in secrets.wifi.aps.keys(), ap_list))
     for ap in ap_list:
         essid = ap[0].decode('UTF-8')
         if not wlan.isconnected():
