@@ -55,13 +55,13 @@ def try_connection(timeout = 12):
 print("Starting up...")
 WLAN(AP_IF).active(False)
 wlan = WLAN(STA_IF)
-wlan.active(True)
-
 # Only for deep sleep ?
 # print('connecting to last AP', end='')
 # print(try_connection(3))
 if not wlan.isconnected() and not skip_wifi:
-    network.WLAN(network.STA_IF).config(txpower=5)
+    wlan = WLAN(STA_IF)
+    wlan.active(True)
+    network.WLAN(network.STA_IF).config(txpower=5) # FIX BUG With WIFI (prior value was 20)
     ap_list = wlan.scan()
     ## sort APs by signal strength
     ap_list.sort(key=lambda ap: ap[3], reverse=True)
