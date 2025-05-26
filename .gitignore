@@ -10,3 +10,4 @@ fabrication-toolkit*
 *.lck
 *.bak
 /pcb/plot
+*.lbrn*
