@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "SplitFlap Driver")
-		(date "2025-03-25")
-		(rev "v2.0")
+		(date "2025-03-26")
+		(rev "v2.1-beta")
 		(company "Besmer Labs")
 	)
 	(lib_symbols

@@ -5,6 +5,7 @@ import machine
 import utime
 import time
 import ntptime
+import network
 
 skip_wifi = False
 ssid = ""
@@ -54,18 +55,18 @@ def try_connection(timeout = 12):
 print("Starting up...")
 WLAN(AP_IF).active(False)
 wlan = WLAN(STA_IF)
-wlan.active(True)
-
 # Only for deep sleep ?
 # print('connecting to last AP', end='')
 # print(try_connection(3))
 if not wlan.isconnected() and not skip_wifi:
+    wlan = WLAN(STA_IF)
+    wlan.active(True)
+    network.WLAN(network.STA_IF).config(txpower=5) # FIX BUG With WIFI (prior value was 20)
     ap_list = wlan.scan()
     ## sort APs by signal strength
     ap_list.sort(key=lambda ap: ap[3], reverse=True)
     ## filter only trusted APs
-    ap_list = list(filter(lambda ap: ap[0].decode('UTF-8') in
-              secrets.wifi.aps.keys(), ap_list))
+    ap_list = list(filter(lambda ap: ap[0].decode('UTF-8') in secrets.wifi.aps.keys(), ap_list))
     for ap in ap_list:
         essid = ap[0].decode('UTF-8')
         if not wlan.isconnected():
