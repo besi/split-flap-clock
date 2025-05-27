@@ -1,7 +1,8 @@
 ![](assets/logo.png)
 
-Split Flap driver board for four 28BYJ-48 stepper motors.
+![](assets/calendar.jpg)
 
+Split Flap clock or calender utilising four 28BYJ-48 stepper motors.
 
 ## Bill of materials
 
