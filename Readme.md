@@ -2,7 +2,7 @@
 
 ![](assets/calendar.jpg)
 
-Split Flap clock or calender utilising four 28BYJ-48 stepper motors.
+Split Flap clock or calendar utilising four 28BYJ-48 stepper motors.
 
 ## Bill of materials
 
