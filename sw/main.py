@@ -38,7 +38,7 @@ d1.show(weekday)
 d2.calibrate()
 tens = int(mday/10)
 if tens == 0: 
-    d2.show(11) # blank
+    d2.show(10) # blank
 else:
     d2.show(tens)
 
@@ -68,7 +68,12 @@ np = neopixel.NeoPixel(machine.Pin(13),2)
 def showTime():
     (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
     d1.show(weekday)
-    d2.show(int(mday/10))
+    tens = int(mday/10)
+    if tens == 0: 
+        d2.show(10) # blank
+    else:
+        d2.show(tens)
+
     d3.show(mday%10)
     d4.show(month)
 
