@@ -33,21 +33,10 @@ s4 = Stepper(HALF_STEP, Pin(1, Pin.OUT), Pin(2, Pin.OUT), Pin(42, Pin.OUT), Pin(
 h4 = Pin(48, Pin.IN)
 d4 = Digit(s4, h4, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], c4, 1, label='Months')
 
-d1.calibrate()
-d1.show(weekday)
-
-d2.calibrate()
-tens = int(mday/10)
-if tens == 0: 
-    d2.show(10) # blank
-else:
-    d2.show(tens)
-
-d3.calibrate()
-d3.show(mday%10)
-
-d4.calibrate()
-d4.show(month)
+d1.calibrate(); d1.show(BLANK)
+d2.calibrate(); d2.show(BLANK)
+d3.calibrate(); d3.show(BLANK)
+d4.calibrate(); d4.show(0)
 
 
 # Buttons
@@ -71,7 +60,7 @@ def showTime():
     d1.show(weekday)
     tens = int(mday/10)
     if tens == 0: 
-        d2.show(10) # blank
+        d2.show(BLANK)
     else:
         d2.show(tens)
 
