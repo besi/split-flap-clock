@@ -43,8 +43,8 @@ scl = Pin(14, Pin.IN, Pin.PULL_UP)
 sda = Pin(12, Pin.IN, Pin.PULL_UP)
 i2c = SoftI2C(scl,sda)
 
-# Neopixel does not work
-np = neopixel.NeoPixel(machine.Pin(13),2)
+# Neopixel
+np = neopixel.NeoPixel(machine.Pin(15),1)
 np.fill((1,1,1))
 np.write()
 current = s4
