@@ -62,7 +62,7 @@ scl = Pin(17, Pin.IN, Pin.PULL_UP)
 sda = Pin(16, Pin.IN, Pin.PULL_UP)
 i2c = SoftI2C(scl,sda)
 
-np = neopixel.NeoPixel(machine.Pin(13),2)
+np = neopixel.NeoPixel(machine.Pin(15),1)
 #np.fill((1,1,1))
 #np.write()
 
