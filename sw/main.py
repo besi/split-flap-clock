@@ -9,6 +9,7 @@ from uln2003 import Stepper, HALF_STEP, FULL_STEP, FULL_ROTATION, Driver, Comman
 from machine import Pin
 
 d = 0.001
+BLANK=11
 
 (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
 
