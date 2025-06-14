@@ -31,7 +31,6 @@ class Digit():
 
     def advance(self, steps):
         steps = steps % FULL_ROTATION
-        self.stepper.step(steps, self.direction)
         old = self.position
         self.position += steps
         if self.position < 0:
@@ -40,7 +39,21 @@ class Digit():
         if self.position >= FULL_ROTATION:
             self.position -= FULL_ROTATION
             print(f"Removed FULL_ROTATION to get to {self.position}")
-        print(f"Went {steps} steps from {old} to {self.position}") 
+        start = -1
+        end = -1
+        correction = 0
+        for i in range(steps):
+            self.stepper.step(1, self.direction)
+            if self.sensor() == HALL_ACTIVE and start == -1:
+               start = old + i
+            if self.sensor() != HALL_ACTIVE and start != -1:
+                end = old + i 
+                correction =  (FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
+                self.position = self.position + correction
+                start = -1
+        correction_string = f"correction of {correction}" if correction > 1 else ''
+        print(f"Went: {steps} steps from: {old} to: {self.position} {correction_string}") 
+
 
     def calibrate(self, move_to_first = False):
         print(f"Calibrating the {self.label} digit")
