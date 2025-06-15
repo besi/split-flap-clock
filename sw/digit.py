@@ -18,11 +18,11 @@ class Digit():
         return self.sensor() == HALL_ACTIVE
 
     def advance_to(self, position):
+        position = round(position)
         print(f"Advance from {self.position} to {position}")
         if position > self.position:
-            print(f"Advance {position - self.position}")
             self.advance(position - self.position)
-        elif position == self.position:
+        elif position == round(self.position):
             print("Already there")
         else:
             print(f"Advance over zero to {FULL_ROTATION - self.position + position}")
@@ -34,7 +34,7 @@ class Digit():
             self.advance_to(i * FULL_ROTATION / len(self.labels))
 
     def advance(self, steps):
-        steps_left = (steps - self.correction) % FULL_ROTATION
+        steps_left = round(steps - self.correction) % FULL_ROTATION
         self.correction = 0
         old = self.position
         self.position += steps
@@ -54,7 +54,7 @@ class Digit():
                start = old + i
             if not self.hall_active() and start != -1:
                 end = old + i 
-                self.correction = (FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
+                self.correction = round(FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
                 start = -1
             steps_left -= 1
         correction_string = f"correction of {self.correction}" if abs(self.correction) > 0 else ''
