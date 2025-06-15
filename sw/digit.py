@@ -12,6 +12,7 @@ class Digit():
         self.offset = offset
         self.label = label
         self.magnet_range = 0
+        self.correction = 0
     
     def hall_active(self):
         return self.sensor() == HALL_ACTIVE
@@ -33,7 +34,8 @@ class Digit():
             self.advance_to(i * FULL_ROTATION / len(self.labels))
 
     def advance(self, steps):
-        steps = steps % FULL_ROTATION
+        steps_left = (steps - self.correction) % FULL_ROTATION
+        self.correction = 0
         old = self.position
         self.position += steps
         if self.position < 0:
@@ -44,19 +46,18 @@ class Digit():
             print(f"Removed FULL_ROTATION to get to {self.position}")
         start = -1
         end = -1
-        correction = 0
-        for i in range(steps):
+        
+        while steps_left > 0:
+            i = steps - steps_left
             self.stepper.step(1, self.direction)
             if self.hall_active() and start == -1:
                start = old + i
             if not self.hall_active() and start != -1:
                 end = old + i 
-                correction = (FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
-                if correction > FULL_ROTATION/2:
-                    correction = correction - FULL_ROTATION
-                self.position = self.position + correction
+                self.correction = (FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
                 start = -1
-        correction_string = f"correction of {correction}" if abs(correction) > 0 else ''
+            steps_left -= 1
+        correction_string = f"correction of {self.correction}" if abs(self.correction) > 0 else ''
         print(f"Went: {steps} steps from: {old} to: {self.position} {correction_string}") 
 
 
