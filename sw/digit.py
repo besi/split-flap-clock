@@ -51,10 +51,12 @@ class Digit():
                start = old + i
             if not self.hall_active() and start != -1:
                 end = old + i 
-                correction =  (FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
+                correction = (FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
+                if correction > FULL_ROTATION/2:
+                    correction = correction - FULL_ROTATION
                 self.position = self.position + correction
                 start = -1
-        correction_string = f"correction of {correction}" if correction > 1 else ''
+        correction_string = f"correction of {correction}" if abs(correction) > 0 else ''
         print(f"Went: {steps} steps from: {old} to: {self.position} {correction_string}") 
 
 
