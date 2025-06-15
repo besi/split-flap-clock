@@ -12,6 +12,9 @@ class Digit():
         self.offset = offset
         self.label = label
         self.magnet_range = 0
+    
+    def hall_active(self):
+        return self.sensor() == HALL_ACTIVE
 
     def advance_to(self, position):
         print(f"Advance from {self.position} to {position}")
@@ -44,9 +47,9 @@ class Digit():
         correction = 0
         for i in range(steps):
             self.stepper.step(1, self.direction)
-            if self.sensor() == HALL_ACTIVE and start == -1:
+            if self.hall_active() and start == -1:
                start = old + i
-            if self.sensor() != HALL_ACTIVE and start != -1:
+            if not self.hall_active() and start != -1:
                 end = old + i 
                 correction =  (FULL_ROTATION - (end - (end-start) / 2) - self.offset) % FULL_ROTATION
                 self.position = self.position + correction
@@ -59,22 +62,22 @@ class Digit():
         print(f"Calibrating the {self.label} digit")
         print(f"{self.labels}")
 
-        if self.sensor() == HALL_ACTIVE:
+        if self.hall_active():
             i = 0
-            while self.sensor() == HALL_ACTIVE:
+            while self.hall_active():
                 self.stepper.step(1, -self.direction)
                 i += 1
             print(f"moved {i} out of the magnet area")
 
         i = 0
         print(f"Starting calibration")
-        while self.sensor() != HALL_ACTIVE:
+        while not self.hall_active():
             self.stepper.step(1, self.direction)
             i += 1
             
         print(f"Found the magnet after {i} steps")
         i = 0
-        while self.sensor() == HALL_ACTIVE:
+        while self.hall_active():
             i += 1
             self.stepper.step(1,self.direction)
         print(f"Reached end of hall sensor at {i}")
@@ -87,5 +90,12 @@ class Digit():
         if move_to_first:
             print("Go to offset")
             self.advance(self.offset)
-        
+        self.position = self.position % FULL_ROTATION
         print(f"calibration ended at position {self.position}")
+
+if __name__ == '__main__':
+    from machine import Pin  
+    s1 = Stepper(HALF_STEP, Pin(10, Pin.OUT), Pin(9, Pin.OUT), Pin(3, Pin.OUT), Pin(8, Pin.OUT), 0.001)
+    d1 = Digit(s1, Pin(18, Pin.IN), list(range(0,12)), -10, 1, label='Weekdays')
+    d1.calibrate()
+    d1.show(0)
