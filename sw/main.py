@@ -36,8 +36,7 @@ d4 = Digit(s4, h4, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], c4, 1, label='Months
 d1.calibrate(); d1.show(BLANK)
 d2.calibrate(); d2.show(BLANK)
 d3.calibrate(); d3.show(BLANK)
-d4.calibrate(); d4.show(0)
-
+d4.calibrate(); d4.show(month)
 
 # Buttons
 mode = Pin(0, Pin.IN)
