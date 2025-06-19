@@ -29754,6 +29754,32 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "ZIP"
+		(at 121.2 112 0)
+		(layer "B.SilkS")
+		(uuid "d2f53c21-2df0-41b4-a8f3-4e2c7b5fd9bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.18)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "ZIP"
+		(at 118.6 112 -0)
+		(layer "F.SilkS")
+		(uuid "163b7d83-d555-453c-9fde-c780d03b19e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.18)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Pinout         - Hall\nA: 10  9  3  8 - 18 (7)\nB: 13 14 21 11 - 12\nC: 40 39 38  6 - 47\nD:  1  2 42 41 - 48\nDCF77:      4\nSDA / SWB: 16\nSCL / SWA: 17\nMode:       0\nNeopixel:  15\nTemp:       5"
 		(at 106.6 105.8 0)
 		(layer "F.SilkS")
