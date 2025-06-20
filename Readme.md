@@ -13,7 +13,7 @@ What is needed for one digit.
 | 1     | PCB v2.0             |                                   |
 | 1     | Supporting Plate     | Same shape and holes like the PCB |
 | 1     | Spacer 2mm           | Spacer for cogwheels              |
-| 1     | Hall Sensor AH1815-W7| For the unpopulated PCBs only     |
+| 1     | Hall sensor AH1815-W7| For the unpopulated PCBs only     |
 | 1     | 10k Resistor 0306    | For the unpopulated PCBS          |
 | 1     | Spool                | 3-D Print with M3 heat insert     |
 | 1     | Spool lid            | 3-D Print                         |
@@ -24,8 +24,8 @@ What is needed for one digit.
 | 1     | Motor 28BYJ-48       | 5V Version                        |
 | 1     | Motor gasket         | Laser cut                         |
 | 12    | Flaps                | Laser cut Flaps                   |
-| 1     | 3 Pos JST 2mm Socket | Hall Sensor Connection            |
-| 1     | 3 Pos JST 2mm Cable  | Hall Sensor Connection            |
+| 1     | 3 Pos JST 2mm Socket | Hall sensor Connection            |
+| 1     | 3 Pos JST 2mm Cable  | Hall sensor Connection            |
 | 4     | M3 Nuts              | 2 Cogs, 2 Motor                   |
 | 5     | M3x8mm Bolt          | 2 Cogs,2 Motor, Spindle,          |
 | 3     | M3x5mm Bolt          | 3 Spindle                         |
@@ -34,12 +34,6 @@ What is needed for one digit.
 | 1     | Washer 5mm 1mm thick | For Driver cogwheel               |
 | 2     | Washer 3mm 1mm thick | For cogwheels                     |
 | 1     | Zip tie for motor    |                                   |
-
-The driving cog wheel is assembled as follows:
-
-    M3x16 + 5 washers + m3-nut-cog + 3 washers
-
-Please note that one assembled PCB can drive four digits. Those "passive" digits only need to have the hall sensor soldered onto it.
 
 ## Pinout
 
@@ -63,12 +57,35 @@ Other GPIOs
 | Neopixel       | 15  |
 | Temperature    | 5   |
 
-## The PCB
+## Assembly
+
+One assembled PCB which functions as the main board can drive four split flap digits including itself as well as three additional passive digits. Looking from the front of the clock / calendar the unit with the populated PCB is to the very left with the barrel jack protruding outward to the left side.
+
+- On the three unpopulated PCBs the Hall sensors circuitry above the spool axis has to be provided. For this R7 can be shortened using a solder bridge, the Hall sensor (AH1815-W7) as well as the R1 resistor (10k 0603) need to be mounted. C1 (100nF 0603) can be omitted: ![a](assets/hall-sensor-circuitry.png) 
+- Using M3 screws mount all four motors directly to the corresponding PCB using the spacer where it says "28BYJ-48". The nuts go to the other side of the PCB where the spacer has two cutouts for both nuts.
+- On the main board connect the motor to the "Motor A" connector. The cable can be looped and secured using a zip tie threaded through the two holes next to the motor.
+
+- Solder the DCF77 connector to the pcb and temporarily tape the ferrite antenna to the PCB to protect the thin copper wires from the coil around the antenna.
+- Add cog wheels with the screws on two different sides
+- Add the spacer
+- Add the cover
+- Connect all hall sensors
+- Prepare the spool 
+- Add standoffs female-female or standoffs male-female respectively
+
+- The driving cog wheel is assembled as follows:
+
+        M3x16 + 5 washers + m3-nut-cog + 3 washers
+
+
+
+
+## PCB V2.0
 
 ![](assets/v2-splitflap-pcb.png)
 
 
-## Version 1.0
+## PCB V1.0
 
 ![](assets/v1-prototype.png)
 ![](assets/v1-splitflap-pcb.png)
