@@ -83,14 +83,30 @@ One assembled PCB which functions as the main board can drive four split flap di
         M3x16 + 5 washers + m3-nut-cog + 3 washers
 
 
+## The PCB
+
+[PCBWay][pcbway] kindly offered to sponsor the manufacturing and assembly of the second iteration of this pcb.
+
+[![PCBWay](assets/pcbway.png)][pcbway]
+
+![](assets/pcb-closeup.png)
+
+In this project the PCBs are used in both the electrical as well as the mechanical realm. The motors and cog wheels are directly mounted onto the pcb and for one clock or calendar four pcbs are stacked together.
+
+![](assets/pcb-stack.png)
+
+The PCBs turned out flawlessly and the ordering process was smooth and efficient.
+
+![](assets/pcbs.png)
 
 
-## PCB V2.0
+[pcbway]: https://pcbway.com/g/2jc702
 
+### PCB V2.0
 ![](assets/v2-splitflap-pcb.png)
 
 
-## PCB V1.0
+### PCB V1.0
 
 ![](assets/v1-prototype.png)
 ![](assets/v1-splitflap-pcb.png)
@@ -107,12 +123,6 @@ One assembled PCB which functions as the main board can drive four split flap di
 
 
 ## Credits
-
-### Manufacturing
-
-[PCBWay](https://pcbway.com/g/2jc702) kindly offered to sponsor the manufacturing and assembly of the second iteration of this pcb.
-
-![PCBWay](assets/pcbway.png) 
 
 ### 3d models
 - Credits for the [ESP32 Devkit 3d model](https://grabcad.com/library/esp32-devkitc-v4-1) by [Andrei Golyakov](https://grabcad.com/andrei.golyakov-1)
