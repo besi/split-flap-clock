@@ -13,22 +13,22 @@ BLANK=11
 
 (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
 
-c1 = -10
+c1 = -2
 s1 = Stepper(HALF_STEP, Pin(10, Pin.OUT), Pin(9, Pin.OUT), Pin(3, Pin.OUT), Pin(8, Pin.OUT), d)
 h1 = Pin(18, Pin.IN)
 d1 = Digit(s1, h1, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c1, 1, label='Weekdays')
 
-c2 = -10
+c2 = -8
 s2 = Stepper(HALF_STEP, Pin(13, Pin.OUT), Pin(14, Pin.OUT), Pin(21, Pin.OUT), Pin(11, Pin.OUT), d)
 h2 = Pin(12,Pin.IN)
 d2 = Digit(s2, h2, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c2, 1, label='Days10')
 
-c3 = -10
+c3 = -7
 s3 = Stepper(HALF_STEP, Pin(40, Pin.OUT), Pin(39, Pin.OUT), Pin(38, Pin.OUT), Pin(6, Pin.OUT), d)
 h3 = Pin(47, Pin.IN)
 d3 = Digit(s3, h3, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c3, 1, label='Days')
 
-c4 = -10
+c4 = -40
 s4 = Stepper(HALF_STEP, Pin(1, Pin.OUT), Pin(2, Pin.OUT), Pin(42, Pin.OUT), Pin(41, Pin.OUT), d)
 h4 = Pin(48, Pin.IN)
 d4 = Digit(s4, h4, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], c4, 1, label='Months')
