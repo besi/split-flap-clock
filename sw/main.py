@@ -82,5 +82,5 @@ def showDate():
 
 while True:
     showTime()
-    time.sleep(60)
+    time.sleep(10)
     
