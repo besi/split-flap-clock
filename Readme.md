@@ -123,12 +123,15 @@ The PCBs turned out flawlessly and the ordering process was smooth and efficient
     esptool.py --port $PORT --baud 460800 write_flash --flash_size=detect 0 $IMAGE --flash_mode=dout
 
 
-## Credits
+## Credits / Thanks
 
-### 3d models
+### Troubleshooting
+
+Special thanks to [greybeard](https://electronics.stackexchange.com/users/274544/greybeard) and [KubaO](https://electronics.stackexchange.com/users/10810/kuba-hasnt-forgotten-monica) who helped to [trouble shoot](https://electronics.stackexchange.com/questions/740221/cross-talk-issues-with-uln2003-and-28byj-48-stepper) some serious issues that arose during the development of the PCB.
+
+### 3D models
 - Credits for the [ESP32 Devkit 3d model](https://grabcad.com/library/esp32-devkitc-v4-1) by [Andrei Golyakov](https://grabcad.com/andrei.golyakov-1)
 - Credits for the [SK6814mini 3d model](https://grabcad.com/library/sk6812-mini-sk6814-smd3535-1) by [Laur V](https://grabcad.com/laur.v-1)
-
 
 ### Markdown tables
 
