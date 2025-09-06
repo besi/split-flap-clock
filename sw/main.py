@@ -13,34 +13,26 @@ BLANK=11
 
 (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
 
-c1 = -2
+c1 = -5
 s1 = Stepper(HALF_STEP, Pin(10, Pin.OUT), Pin(9, Pin.OUT), Pin(3, Pin.OUT), Pin(8, Pin.OUT), d)
 h1 = Pin(18, Pin.IN)
 d1 = Digit(s1, h1, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c1, 1, label='Weekdays')
-d1.calibrate(); d1.show(10)
 
 c2 = -8
 s2 = Stepper(HALF_STEP, Pin(13, Pin.OUT), Pin(14, Pin.OUT), Pin(21, Pin.OUT), Pin(11, Pin.OUT), d)
 h2 = Pin(12,Pin.IN)
 d2 = Digit(s2, h2, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c2, 1, label='Days10')
-d2.calibrate(); d2.show(10)
 
 c3 = -7
 s3 = Stepper(HALF_STEP, Pin(40, Pin.OUT), Pin(39, Pin.OUT), Pin(38, Pin.OUT), Pin(6, Pin.OUT), d)
 h3 = Pin(47, Pin.IN)
 d3 = Digit(s3, h3, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c3, 1, label='Days')
-d3.calibrate(); d3.show(10)
 
 c4 = -40
 s4 = Stepper(HALF_STEP, Pin(1, Pin.OUT), Pin(2, Pin.OUT), Pin(42, Pin.OUT), Pin(41, Pin.OUT), d)
 h4 = Pin(48, Pin.IN)
 d4 = Digit(s4, h4, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c4, 1, label='Months')
-d4.calibrate(); d4.show(10)
 
-d1.show(11)
-d4.show(11)
-d2.show(11)
-d3.show(11)
 # Buttons
 mode = Pin(0, Pin.IN)
 button_a = Pin(17, Pin.IN)
@@ -67,6 +59,12 @@ def showTime():
     d2.show(h%10)
     d3.show(int(m/10))
     d4.show(m%10)
+
+d1.calibrate(); showTime()
+d2.calibrate(); showTime()
+d3.calibrate(); showTime()
+d4.calibrate(); showTime()
+
 
 def showDate():
     (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
