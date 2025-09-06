@@ -13,6 +13,7 @@ class Digit():
         self.label = label
         self.magnet_range = 0
         self.correction = 0
+        self.is_calibrated = False
     
     def hall_active(self):
         return self.sensor() == HALL_ACTIVE
@@ -29,7 +30,7 @@ class Digit():
             self.advance(FULL_ROTATION - self.position + position) 
 
     def show(self, label):
-        if label in self.labels:
+        if label in self.labels and self.is_calibrated:
             i = self.labels.index(label)
             self.advance_to(i * FULL_ROTATION / len(self.labels))
 
@@ -95,6 +96,7 @@ class Digit():
             self.advance(self.offset)
         self.position = self.position % FULL_ROTATION
         print(f"calibration ended at position {self.position}")
+        self.is_calibrated = True
 
 if __name__ == '__main__':
     from machine import Pin  
