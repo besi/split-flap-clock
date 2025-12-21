@@ -9,29 +9,35 @@ from uln2003 import Stepper, HALF_STEP, FULL_STEP, FULL_ROTATION, Driver, Comman
 from machine import Pin
 
 d = 0.001
-BLANK=11
-
-(year,month,mday,h,m,s,weekday,yearday) = time.localtime()
+BLANK = 11
 
 c1 = -12
-s1 = Stepper(HALF_STEP, Pin(10, Pin.OUT), Pin(9, Pin.OUT), Pin(3, Pin.OUT), Pin(8, Pin.OUT), d)
+s1 = Stepper(
+    HALF_STEP, Pin(10, Pin.OUT), Pin(9, Pin.OUT), Pin(3, Pin.OUT), Pin(8, Pin.OUT), d
+)
 h1 = Pin(18, Pin.IN)
-d1 = Digit(s1, h1, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c1, 1, label='Weekdays')
+d1 = Digit(s1, h1, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c1, 1, label="Weekdays")
 
 c2 = -8
-s2 = Stepper(HALF_STEP, Pin(13, Pin.OUT), Pin(14, Pin.OUT), Pin(21, Pin.OUT), Pin(11, Pin.OUT), d)
-h2 = Pin(12,Pin.IN)
-d2 = Digit(s2, h2, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c2, 1, label='Days10')
+s2 = Stepper(
+    HALF_STEP, Pin(13, Pin.OUT), Pin(14, Pin.OUT), Pin(21, Pin.OUT), Pin(11, Pin.OUT), d
+)
+h2 = Pin(12, Pin.IN)
+d2 = Digit(s2, h2, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c2, 1, label="Days10")
 
 c3 = -8
-s3 = Stepper(HALF_STEP, Pin(40, Pin.OUT), Pin(39, Pin.OUT), Pin(38, Pin.OUT), Pin(6, Pin.OUT), d)
+s3 = Stepper(
+    HALF_STEP, Pin(40, Pin.OUT), Pin(39, Pin.OUT), Pin(38, Pin.OUT), Pin(6, Pin.OUT), d
+)
 h3 = Pin(47, Pin.IN)
-d3 = Digit(s3, h3, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c3, 1, label='Days')
+d3 = Digit(s3, h3, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c3, 1, label="Days")
 
 c4 = -46
-s4 = Stepper(HALF_STEP, Pin(1, Pin.OUT), Pin(2, Pin.OUT), Pin(42, Pin.OUT), Pin(41, Pin.OUT), d)
+s4 = Stepper(
+    HALF_STEP, Pin(1, Pin.OUT), Pin(2, Pin.OUT), Pin(42, Pin.OUT), Pin(41, Pin.OUT), d
+)
 h4 = Pin(48, Pin.IN)
-d4 = Digit(s4, h4, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c4, 1, label='Months')
+d4 = Digit(s4, h4, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], c4, 1, label="Months")
 
 # Buttons
 mode = Pin(0, Pin.IN)
@@ -41,44 +47,51 @@ buttons = [mode, button_a, button_b]
 
 # I2C
 from machine import Pin, SoftI2C
+
 scl = Pin(17, Pin.IN, Pin.PULL_UP)
 sda = Pin(16, Pin.IN, Pin.PULL_UP)
-i2c = SoftI2C(scl,sda)
+i2c = SoftI2C(scl, sda)
 
-np = neopixel.NeoPixel(machine.Pin(13),2)
-#np.fill((1,1,1))
-#np.write()
+np = neopixel.NeoPixel(machine.Pin(13), 2)
+# np.fill((1,1,1))
+# np.write()
+
 
 def showTime():
-    (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
-    hour = int(h/10)
-    if hour == 0: 
+    _, _, _, h, m, _, _, _ = time.localtime()
+    hour = int(h / 10)
+    if hour == 0:
         d1.show(BLANK)
     else:
         d1.show(hour)
-    d2.show(h%10)
-    d3.show(int(m/10))
-    d4.show(m%10)
+    d2.show(h % 10)
+    d3.show(int(m / 10))
+    d4.show(m % 10)
 
-d1.calibrate(); showTime()
-d2.calibrate(); showTime()
-d3.calibrate(); showTime()
-d4.calibrate(); showTime()
+
+d1.calibrate()
+showTime()
+d2.calibrate()
+showTime()
+d3.calibrate()
+showTime()
+d4.calibrate()
+showTime()
 
 
 def showDate():
-    (year,month,mday,h,m,s,weekday,yearday) = time.localtime()
+    _, month, mday, _, _, _, weekday, _ = time.localtime()
     d1.show(weekday)
-    tens = int(mday/10)
-    if tens == 0: 
+    tens = int(mday / 10)
+    if tens == 0:
         d2.show(BLANK)
     else:
         d2.show(tens)
 
-    d3.show(mday%10)
+    d3.show(mday % 10)
     d4.show(month)
+
 
 while True:
     showTime()
     time.sleep(10)
-    
