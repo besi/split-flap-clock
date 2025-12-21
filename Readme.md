@@ -116,7 +116,7 @@ The PCBs turned out flawlessly and the ordering process was smooth and efficient
 ## Flashing the PCB
 
     cd ~/Downloads
-    IMAGE=ESP32_GENERIC_S3-FLASH_4M-20250415-v1.25.0.bin
+    IMAGE=ESP32_GENERIC_S3-20251209-v1.27.0.bin
     wget https://micropython.org/resources/firmware/$IMAGE -nc
     PORT=/dev/cu.usbmodem14401
     esptool.py --port $PORT erase_flash
